@@ -1,0 +1,3034 @@
+[
+    {
+      "anbieter": "Aargau",
+      "datensatz": "Stand der amtlichen Vermessung (Daten)",
+      "zusammenfassung": "Die Übersicht zeigt losweise den aktuellen Stand der amtlichen Vermessung, den verantwortlichen Geometer (Datenabgabestelle) sowie die beteiligten Flächenanteile, aufgeteilt nach Beitragszonen resp. Toleranzstufen gemäss TVAV Art. 3",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Aargau",
+      "datensatz": "Stand der amtlichen Vermessung",
+      "zusammenfassung": "Die Übersicht zeigt losweise den aktuellen Stand der amtlichen Vermessung, den verantwortlichen Geometer (Datenabgabestelle) sowie die beteiligten Flächenanteile, aufgeteilt nach Beitragszonen resp. Toleranzstufen gemäss TVAV Art. 3",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Zug",
+      "datensatz": "Amtliche Vermessung",
+      "zusammenfassung": "nan",
+      "service": "WMS",
+      "score": 0
+    },
+    {
+      "anbieter": "BaselStadt",
+      "datensatz": "Amtliche Vermessung",
+      "zusammenfassung": "nan",
+      "service": "WMS",
+      "score": 0
+    },
+    {
+      "anbieter": "Aargau",
+      "datensatz": "Stand der amtlichen Vermessung",
+      "zusammenfassung": "Die Übersicht zeigt losweise den aktuellen Stand der amtlichen Vermessung, den verantwortlichen Geometer (Datenabgabestelle) sowie die beteiligten Flächenanteile, aufgeteilt nach Beitragszonen resp. Toleranzstufen gemäss TVAV Art. 3",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Bern",
+      "datensatz": "Stand der amtlichen Vermessung [vereinfacht]",
+      "zusammenfassung": "Stand der Datenlieferungen der amtlichen Vermessung",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Bern",
+      "datensatz": "Stand der amtlichen Vermessung",
+      "zusammenfassung": "Stand der Datenlieferungen der amtlichen Vermessung",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Graubünden",
+      "datensatz": "Kanton Graubünden, Amtliche Vermessung - Stand",
+      "zusammenfassung": "WMS_AmtlicheVermessung_Stand",
+      "service": "WMS",
+      "score": 25
+    },
+    {
+      "anbieter": "Graubünden",
+      "datensatz": "Kanton Graubünden, Amtliche Vermessung",
+      "zusammenfassung": "WMS_Amtliche_Vermessung",
+      "service": "WMS",
+      "score": 25
+    },
+    {
+      "anbieter": "Thurgau",
+      "datensatz": "Amtliche Vermessung",
+      "zusammenfassung": "WMS/WFS Dienst des Kantons Thurgau",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "BaselStadt",
+      "datensatz": "Amtliche Vermessung Kilometereinteilung",
+      "zusammenfassung": "nan",
+      "service": "WMS",
+      "score": 0
+    },
+    {
+      "anbieter": "BaselLand",
+      "datensatz": "EGIDen aus der Amtlichen Vermessung",
+      "zusammenfassung": "nan",
+      "service": "WMS",
+      "score": 0
+    },
+    {
+      "anbieter": "Bund",
+      "datensatz": "OpenData-AV",
+      "zusammenfassung": "Die amtliche Vermessung (AV) beschreibt die Lage, die Form und den Inhalt eines Grundstückes. Die digitalen AV-Daten sind in mehreren thematischen Informationsebenen gegliedert, die frei miteinander kombiniert werden können. OpenData AV basiert auf dem Darstellungsdienst der amtlichen Vermessung welcher mit den Daten des AV-Geoportals des Bundes kreiert wird.",
+      "service": "WMS",
+      "score": 75
+    },
+    {
+      "anbieter": "Zürich",
+      "datensatz": "Amtliche Vermessung schwarz/weiss",
+      "zusammenfassung": "Geodienst des GIS-ZH",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Zürich",
+      "datensatz": "Amtliche Vermessung in Farbe",
+      "zusammenfassung": "Geodienst des GIS-ZH",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Zürich",
+      "datensatz": "Kanton Zuerich, Amtliche Vermessung",
+      "zusammenfassung": "Geodienst des GIS-ZH",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Bern",
+      "datensatz": "Gebäudehöhe",
+      "zusammenfassung": "Diese Ebene enthält alle Gebäude im Kanton Bern gemäss amtlicher Vermessung. Die Informationen zur Gebäudehöhe stammen aus der Analyse von LiDAR-Daten, welche durch den Kanton Bern zwischen 2011 und 2014 akquiriert wurden. Von den 426-723 AV-Gebäuden sind für 383-423 (90%) eine Höheninformation verfügbar. Bei den 10% ohne Angaben handelt es sich um Gebäude welche nach 2014 erstellt wurden oder es sind keine Höhenangaben aus den LiDAR-Daten ableitbar. Das kann aufgrund von Datenlücken, falsch klassierten Punkten oder durch die Überlagerung mit Vegetation (Gebäude im Wald, am Waldrand) der Fall sein.",
+      "service": "WMS",
+      "score": 0
+    },
+    {
+      "anbieter": "Graubünden",
+      "datensatz": "Stand der amtlichen Vermessung",
+      "zusammenfassung": "Stand_der_amtlichen_Vermessung",
+      "service": "WMS",
+      "score": 25
+    },
+    {
+      "anbieter": "Uri",
+      "datensatz": "CH055 Bodenbedeckung Flächen projektiert",
+      "zusammenfassung": "Projektierte Bodenbedeckung aus der Amtlichen Vermessung.",
+      "service": "WFS",
+      "score": 0
+    },
+    {
+      "anbieter": "Uri",
+      "datensatz": "CH058 Nomenklatur FlurnamenPos",
+      "zusammenfassung": "Flur-, Orts- und Geländenamen (= geografische Namen der amtlichen Vermessung) von geografischen Gebieten, Landschaftsteilen, Flurstücken, topografischen Objekten usw.",
+      "service": "WFS",
+      "score": 0
+    },
+    {
+      "anbieter": "Uri",
+      "datensatz": "CH059 Liegenschaften Flächen (projektiert)",
+      "zusammenfassung": "Projektierte Liegenschaften aus der Amtlichen Vermessung",
+      "service": "WFS",
+      "score": 0
+    },
+    {
+      "anbieter": "Uri",
+      "datensatz": "CH059 Liegenschaften Grenzpunkte",
+      "zusammenfassung": "Liegenschaftsgrenzpunkte aus der Amtlichen Vermessung",
+      "service": "WFS",
+      "score": 0
+    },
+    {
+      "anbieter": "Uri",
+      "datensatz": "CH059 Liegenschaften Selbstrechte",
+      "zusammenfassung": "Selbständige Rechte aus der Amtlichen Vermessung",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Uri",
+      "datensatz": "CH059 Liegenschaften Selbstrechte (projektiert)",
+      "zusammenfassung": "Projektierte Selbständige Rechte aus der Amtlichen Vermessung",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Uri",
+      "datensatz": "CH060 Gebäudeadressen PLZ",
+      "zusammenfassung": "Postleitzahl aus TOPIC «PLZOrtschaft» der amtlichen Vermessung.",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Uri",
+      "datensatz": "CH060 Gebäudeadressen Strassenstücke",
+      "zusammenfassung": "Strassenstücke der amtlichen Vermssung, zusammenfasst nach Strassennamen und BFSNr",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Uri",
+      "datensatz": "CH060 Gebäudeadressen Strassenstücke benannte Gebiete",
+      "zusammenfassung": "Benannte Gebiete der amtlichen Vermessung",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Uri",
+      "datensatz": "CH062 Hoheitsgrenzen Hoheitsgrenzpunkte",
+      "zusammenfassung": "Hoheitsgrenzpunkte aus der Amtlichen Vermessung",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "BaselLand",
+      "datensatz": "Amtliche Vermessung Umkantone (farbig)",
+      "zusammenfassung": "nan",
+      "service": "WMS",
+      "score": 0
+    },
+    {
+      "anbieter": "BaselLand",
+      "datensatz": "Amtliche Vermessung Umkantone (schwarz-weiss)",
+      "zusammenfassung": "nan",
+      "service": "WMS",
+      "score": 0
+    },
+    {
+      "anbieter": "Bund",
+      "datensatz": "Stand der amtlichen Vermessung",
+      "zusammenfassung": "Dieser Datensatz gibt einen aktuellen und kompletten Überblick über das Fortschreiten der amtlichen Vermessung über die ganze Schweiz gemäss den verschiedenen Qualtitätsstandards: analog, digital LV03, digital LV95 oder nicht vermessen.",
+      "service": "WMS",
+      "score": 75
+    },
+    {
+      "anbieter": "BaselStadt",
+      "datensatz": "Amtliche Vermessung Kilometereinteilung",
+      "zusammenfassung": "nan",
+      "service": "WMS",
+      "score": 25
+    },
+    {
+      "anbieter": "Aargau",
+      "datensatz": "Forstbetriebe",
+      "zusammenfassung": "Besitzverhältnisse des Waldes (Staat, Gemeinde, privat etc.), Basis bilden die Waldausscheidung, die Parzellengrenzen der amtlichen Vermessung und die Forstorganisation.",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Aargau",
+      "datensatz": "Betriebsteile Staatswald",
+      "zusammenfassung": "Besitzverhältnisse des Waldes (Staat, Gemeinde, privat etc.), Basis bilden die Waldausscheidung, die Parzellengrenzen der amtlichen Vermessung und die Forstorganisation.",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Aargau",
+      "datensatz": "Forstreviere",
+      "zusammenfassung": "Besitzverhältnisse des Waldes (Staat, Gemeinde, privat etc.), Basis bilden die Waldausscheidung, die Parzellengrenzen der amtlichen Vermessung und die Forstorganisation.",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Aargau",
+      "datensatz": "Waldeigentum",
+      "zusammenfassung": "Besitzverhältnisse des Waldes (Staat, Gemeinde, privat etc.), Basis bilden die Waldausscheidung, die Parzellengrenzen der amtlichen Vermessung und die Forstorganisation.",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Aargau",
+      "datensatz": "AV: proj. Gebäude",
+      "zusammenfassung": "Der Datensatz enthält die projektierten Gebäude. Diese sind Bestandteil der Informationsebene -Bodenbedeckung- des Objektkataloges der amtlichen Vermessung.",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Aargau",
+      "datensatz": "AV: proj. Assekuranznummern",
+      "zusammenfassung": "Der Datensatz enthält die projektierten Gebäude- bzw. Assekuranznummern. Diese sind Bestandteil der Informationsebene -Bodenbedeckung- des Objektkataloges der amtlichen Vermessung.",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Aargau",
+      "datensatz": "AV: Strassennamen",
+      "zusammenfassung": "Der Datensatz enthält die Strassen- und Platznamen. Diese sind Bestandteil der Informationsebene -Gebäudeadressen- des Objektkataloges der amtlichen Vermessung.",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Aargau",
+      "datensatz": "AV: Polizeinummern",
+      "zusammenfassung": "Der Datensatz enthält die Gebäudeadressen bestehend aus Haus- bzw. Polizeinummern sowie Strassen- und Platznamen. Diese sind Bestandteil der Informationsebene -Gebäudeadressen- des Objektkataloges der amtlichen Vermessung.",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Aargau",
+      "datensatz": "AV: Parzellennummern",
+      "zusammenfassung": "Der Datensatz enthält die Grundstücks- bzw. Parzellennummern. Diese sind Bestandteil der Informationsebene -Liegenschaften- des Objektkataloges der amtlichen Vermessung.",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Aargau",
+      "datensatz": "AV: proj. Parzellennummern",
+      "zusammenfassung": "Der Datensatz enthält die projektierten Grundstücks- bzw. Parzellennummern. Diese sind Bestandteil der Informationsebene -Liegenschaften- des Objektkataloges der amtlichen Vermessung.",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Aargau",
+      "datensatz": "AV: Objektnamen (BB)",
+      "zusammenfassung": "Der Datensatz enthält die Objektnamen (z.B. Gebäudebezeichnungen, Gewässernamen, etc.) der Informationsebene -Bodenbedeckung- des Objektkataloges der amtlichen Vermessung.",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Aargau",
+      "datensatz": "AV: Assekuranznummern",
+      "zusammenfassung": "Der Datensatz enthält die Gebäude- bzw. Assekuranznummern. Diese sind Bestandteil der Informationsebene -Bodenbedeckung- des Objektkataloges der amtlichen Vermessung.",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Aargau",
+      "datensatz": "AV: Hoheitsgrenzen",
+      "zusammenfassung": "Der Datensatz enthält die Gemeinde-, Bezirks-, Kantons-, und Landesgrenzen. Diese sind Bestandteil der Informationsebene -Hoheitsgrenzen- des Objektkataloges der amtlichen Vermessung.",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Aargau",
+      "datensatz": "AV: Objektnummer (EO)",
+      "zusammenfassung": "Der Datensatz enthält die Objektnummern (unterirdische Gebäude, Unterstand, etc.) der Informationsebene -Einzelobjekte- des Objektkataloges der amtlichen Vermessung.",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Aargau",
+      "datensatz": "AV: Objektnamen (EO)",
+      "zusammenfassung": "Der Datensatz enthält die Objektnamen (unterirdische Gebäude, Hochspannungsfreileitung, Bahngeleise, etc.) der Informationsebene -Einzelobjekte- des Objektkataloges der amtlichen Vermessung.",
+      "service": "WMS",
+      "score": 100
+    },
+    {
+      "anbieter": "Aargau",
+      "datensatz": "Waldareal",
+      "zusammenfassung": "Der Datensatz enthält den statischen Wald bzw. das Waldareal gemäss §3 AWaG. Dieses ist Bestandteil der Informationsebene -Waldgrenzen- des Objektkataloges der amtlichen Vermessung.",
+      "service": "WMS",
+      "score": 100
+    },
+    {
+      "anbieter": "Aargau",
+      "datensatz": "Waldgrenze",
+      "zusammenfassung": "Der Datensatz enthält die Abgrenzungen des statischen Wald. Diese sind Bestandteil der Informationsebene -Waldgrenzen- des Objektkataloges der amtlichen Vermessung.",
+      "service": "WMS",
+      "score": 100
+    },
+    {
+      "anbieter": "Aargau",
+      "datensatz": "Gemeindegrenzen",
+      "zusammenfassung": "Der Datensatz enthält die Gemeinde-, Bezirks-, Kantons- und Landesgrenzen. Die Gemeindegrenzen wurden in erster Linie ab den Übersichtsplänen 1:5000 (1991) digitalisiert und werden nun laufend, wo vorhanden, durch die numerischen Gemeindegrenzen der amtlichen Vermessung ersetzt.",
+      "service": "WMS",
+      "score": 100
+    },
+    {
+      "anbieter": "Aargau",
+      "datensatz": "Nachführungskreise",
+      "zusammenfassung": "Der Datensatz enthält die Nachführungskreise und die Nachführungsgeometer, welche für die Nachführung der amtlichen Vermessung zuständig bzw. gewählt sind.",
+      "service": "WMS",
+      "score": 100
+    },
+    {
+      "anbieter": "Glarus",
+      "datensatz": "Grundstücke (Liegenschaften, SDR) der amtlichen Vermessung",
+      "zusammenfassung": "nan",
+      "service": "WMS",
+      "score": 0
+    },
+    {
+      "anbieter": "Glarus",
+      "datensatz": "Projektierte Grundstücke (Liegenschaften, SDR) der amtlichen Vermessung",
+      "zusammenfassung": "nan",
+      "service": "WMS",
+      "score": 0
+    },
+    {
+      "anbieter": "Solothurn",
+      "datensatz": "Nachführungsgemeinden der amtlichen Vermessung",
+      "zusammenfassung": "nan",
+      "service": "WFS",
+      "score": 25
+    },
+    {
+      "anbieter": "Bund",
+      "datensatz": "Dufourkarte Erstausgabe",
+      "zusammenfassung": "Erstes amtliches Kartenwerk der Schweiz. Erstausgaben 1844 bis 1864, Nachführungen bis 1939. 25 Blätter. Kartenformat: 70 x 48 cm = 3360 km2. Geländedarstellung: Schattenschraffen, Reproduktionsart: Kupferstich, Druckverfahren: Tiefdruck (ab 1905 auch: Flachdruck) Anzahl der Farben: 1 (ab 1908: 2 und ab 1938: 3). Flächentreue unechte Kegelprojektion, Ellipsoid: Schmidt 1828. Ausgangshöhe: (Repère Pierre du Niton 376,2 m ü. M.).",
+      "service": "WMTS",
+      "score": 75
+    },
+    {
+      "anbieter": "BaselLand",
+      "datensatz": "Amtliche Vermessung Umkantone BL",
+      "zusammenfassung": "av_umkantone_group",
+      "service": "WMS",
+      "score": 25
+    },
+    {
+      "anbieter": "Bern",
+      "datensatz": "Amtliche Vermessung in Bearbeitung",
+      "zusammenfassung": "Die in Arbeit stehenden Lose bilden die Entitäten, welche in der Datenbank AMO verwaltet werden. Es handelt sich um laufende Operate der amtlichen Vermessung nach mehreren Qualitätsstandards, in der Regel AV93 oder PN, welche als Zusatzinformation gelten. Ihre Darstellung ist sekundär.",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Ortsplan farbig mit Daten aus der amtlichen Vermessung",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/03f8acc8-6bdd-4377-8b99-bdee91312f24",
+      "service": "WMS",
+      "score": 25
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Ortsplan schwarz-weiss mit Daten aus der amtlichen Vermessung",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/ef254ec0-ac53-4494-8166-31fac05ab2d6",
+      "service": "WMS",
+      "score": 25
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Fixpunkte Kategorie 1 aus der amtlichen Vermessung",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 25
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Fixpunkte Kategorie 2 aus der amtlichen Vermessung",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 25
+    },
+    {
+      "anbieter": "Aargau",
+      "datensatz": "AV: Bodenbedeckung s/w",
+      "zusammenfassung": "Der Datensatz enthält die Bodenbedeckungsflächen (Gebäude, Strassen, Gewässer, Wald, etc.). Diese sind Bestandteil der Informationsebene -Bodenbedeckung- des Objektkataloges der amtlichen Vermessung. Die Bodenbedeckungsflächen sind flächendeckend als Gebietsaufteilung definiert. Die Genauigkeitsanforderungen der Bodenbedeckungsflächen sowie die aufzunehmenden Minimalflächen richten sich nach den Toleranzstufen (TVAV Art. 3). Die Lagegenauigkeit von Einzelpunkten wird als Standardabweichung (mittlere Fehler) definiert (TVAV Art. 29).",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Aargau",
+      "datensatz": "AV: Einzelobjekte (Flächenelemente)",
+      "zusammenfassung": "Der Datensatz enthält Einzelobjekte (Mauer, unterirdisches Gebäude, eingedoltes öffentliches Gewässer, wichtige Treppe, Tunnel, Unterführung, Galerie, Brücke, Passerelle, Bahnsteig, Brunnen, Reservoir, Pfeiler, Unterstand, Mast, Antenne, Aussichtsturm, Uferverbauung, Schwelle, massiver Sockel, Ruine, archäologisches Objekt, Landungssteg, einzelner Fels und Hochspannungsfreileitungen), welche als Flächenelemente dargestellt werden. Diese sind Bestandteil der Informationsebene -Einzelobjekte- des Objektkataloges der amtlichen Vermessung. Die Genauigkeitsanforderungen der Einzelobjekte richten sich nach den Toleranzstufen (TVAV Art. 3). Die Lagegenauigkeit der Einzelpunkte wird als Standardabweichung (mittlere Fehler) definiert (TVAV Art. 29).",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Aargau",
+      "datensatz": "AV: Parzellen",
+      "zusammenfassung": "Der Datensatz enthält die Grundstücke bzw. Parzellen. Diese sind Bestandteil der Informationsebene -Liegenschaften- des Objektkataloges der amtlichen Vermessung. Die Genauigkeits- und Zuverlässigkeitsanforderungen richten sich nach den Toleranzstufen (TVAV Art. 3). Die Lagegenauigkeit der Grenzpunkte wird als Standardabweichung (mittlere Fehler) definiert (TVAV Art. 31). Die Äussere Zuverlässigkeit der Grenzpunkte, wird durch geeignete Kenngrössen nachgewiesen (TVAV Art. 34).",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Aargau",
+      "datensatz": "AV: selbständige und dauernde Rechte",
+      "zusammenfassung": "Der Datensatz enthält die selbständigen und dauernden Rechte (Baurecht). Diese sind Bestandteil der Informationsebene -Liegenschaften- des Objektkataloges der amtlichen Vermessung, soweit sie flächenmässig ausgeschieden werden können. Die Genauigkeits- und Zuverlässigkeitsanforderungen richten sich nach den Toleranzstufen (TVAV Art. 3). Die Lagegenauigkeit der Grenzpunkte wird als Standardabweichung (mittlere Fehler) definiert (TVAV Art. 31). Die Äussere Zuverlässigkeit der Grenzpunkte, wird durch geeignete Kenngrössen nachgewiesen (TVAV Art. 34).",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Aargau",
+      "datensatz": "AV: proj. Parzellen",
+      "zusammenfassung": "Der Datensatz enthält die projektierten Grundstücke bzw. Parzellen. Diese sind Bestandteil der Informationsebene -Liegenschaften- des Objektkataloges der amtlichen Vermessung. Die Genauigkeits- und Zuverlässigkeitsanforderungen richten sich nach den Toleranzstufen (TVAV Art. 3). Die Lagegenauigkeit der Grenzpunkte wird als Standardabweichung (mittlere Fehler) definiert (TVAV Art. 31). Die Äussere Zuverlässigkeit der Grenzpunkte, wird durch geeignete Kenngrössen nachgewiesen (TVAV Art. 34).",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Aargau",
+      "datensatz": "AV: proj. selbständige und dauernde Rechte",
+      "zusammenfassung": "Der Datensatz enthält die projektierten selbständigen und dauernden Rechte (Baurecht). Diese sind Bestandteil der Informationsebene -Liegenschaften- des Objektkataloges der amtlichen Vermessung, soweit sie flächenmässig ausgeschieden werden können. Die Genauigkeits- und Zuverlässigkeitsanforderungen richten sich nach den Toleranzstufen (TVAV Art. 3). Die Lagegenauigkeit der Grenzpunkte wird als Standardabweichung (mittlere Fehler) definiert (TVAV Art. 31). Die Äussere Zuverlässigkeit der Grenzpunkte, wird durch geeignete Kenngrössen nachgewiesen (TVAV Art. 34).",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Aargau",
+      "datensatz": "AV: Rohrleitungen",
+      "zusammenfassung": "Der Datensatz enthält die Hochdruckleitungen für Gas. Diese sind Bestandteil der Informationsebene -Rohrleitungen- des Objektkataloges der amtlichen Vermessung. Die Genauigkeitsanforderungen der Rohrleitungen richten sich nach den Toleranzstufen (TVAV Art. 3). Die Lagegenauigkeit der Einzelpunkte wird als Standardabweichung (mittlere Fehler) definiert (TVAV Art. 31).",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Aargau",
+      "datensatz": "AV: Einzelobjekte (Linienelemente)",
+      "zusammenfassung": "Der Datensatz enthält Einzelobjekte (Mauer, unterirdisches Gebäude, übriger Gebäudedetail, eingedoltes öffentliches Gewässer, wichtige Treppe, Tunnel, Unterführung, Galerie, Brücke, Passerelle, Reservoir, Denkmal, Mast, Antenne, Ruine, archäologisches Objekt, Rinnsal, schmaler Weg, Hochspannungsfreileitungen, Bahngeleise, Materialseilbahn, Skilift, Fähre, Grotte, Höhleneingang und Achse), welche als Linienelemente dargestellt werden. Diese sind Bestandteil der Informationsebene -Einzelobjekte- des Objektkataloges der amtlichen Vermessung. Die Genauigkeitsanforderungen der Einzelobjekte richten sich nach den Toleranzstufen (TVAV Art. 3). Die Lagegenauigkeit der Einzelpunkte wird als Standardabweichung (mittlere Fehler) definiert (TVAV Art. 29).",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Aargau",
+      "datensatz": "AV: Einzelobjekte (Punktelemente)",
+      "zusammenfassung": "Der Datensatz enthält Einzelobjekte (Denkmal, Mast, Antenne, einzelner Fels, wichtiger Einzelbaum, Bildstock, Kruzifix, Quelle und Bezugspunkt), welche als Punktelemente dargestellt werden. Diese sind Bestandteil der Informationsebene -Einzelobjekte- des Objektkataloges der amtlichen Vermessung. Die Genauigkeitsanforderungen der Einzelobjekte richten sich nach den Toleranzstufen (TVAV Art. 3). Die Lagegenauigkeit der Einzelpunkte wird als Standardabweichung (mittlere Fehler) definiert (TVAV Art. 29).",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Aargau",
+      "datensatz": "AV: Grenzpunkte",
+      "zusammenfassung": "Der Datensatz enthält die Grenzpunkte. Dies sind Bestandteil der Informationsebene -Liegenschaften- des Objektkataloges der amtlichen Vermessung. Die Grenzpunktkoordinaten basieren auf dem offiziellen Bezugsrahmen der Landesvermessung 1903 (LV03). Die Genauigkeits- und Zuverlässigkeitsanforderungen richten sich nach den Toleranzstufen (TVAV Art. 3). Die Lagegenauigkeit der Grenzpunkte wird als Standardabweichung (mittlere Fehler) definiert (TVAV Art. 31). Die äussere Zuverlässigkeit eines jeden Grenzpunktes, wird durch geeignete Kenngrössen nachgewiesen (TVAV Art. 34).",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Aargau",
+      "datensatz": "AV: proj. Grenzpunkte",
+      "zusammenfassung": "Der Datensatz enthält die Grenzpunkte. Dies sind Bestandteil der Informationsebene -Liegenschaften- des Objektkataloges der amtlichen Vermessung. Die Grenzpunktkoordinaten basieren auf dem offiziellen Bezugsrahmen der Landesvermessung 1903 (LV03). Die Genauigkeits- und Zuverlässigkeitsanforderungen richten sich nach den Toleranzstufen (TVAV Art. 3). Die Lagegenauigkeit der Grenzpunkte wird als Standardabweichung (mittlere Fehler) definiert (TVAV Art. 31). Die äussere Zuverlässigkeit eines jeden Grenzpunktes, wird durch geeignete Kenngrössen nachgewiesen (TVAV Art. 34).",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Aargau",
+      "datensatz": "AV: Hoheitsgrenzpunkte",
+      "zusammenfassung": "Der Datensatz enthält die Hoheitsgrenzpunkte. Dies sind Bestandteil der Informationsebene -Hoheitsgrenzen- des Objektkataloges der amtlichen Vermessung. Die Grenzpunktkoordinaten basieren auf dem offiziellen Bezugsrahmen der Landesvermessung 1903 (LV03). Die Genauigkeits- und Zuverlässigkeitsanforderungen richten sich nach den Toleranzstufen (TVAV Art. 3). Die Lagegenauigkeit der Grenzpunkte wird als Standardabweichung (mittlere Fehler) definiert (TVAV Art. 31). Die äussere Zuverlässigkeit eines jeden Grenzpunktes, wird durch geeignete Kenngrössen nachgewiesen (TVAV Art. 34).",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Aargau",
+      "datensatz": "AV: Lagefixpunkte (LFP1-3)",
+      "zusammenfassung": "Die Lagefixpunkte sind Bestandteil der Informationsebene -Fixpunkte- des Objektkataloges der amtlichen Vermessung. Der Datensatz enthält die Lagefixpunkte der Kategorie 1 (Punkte der Landesvermessung), der Kategorie 2 (Punkte des Kantons) und der Kategorie 3 (Punkte der amtlichen Vermessung). Die Punkte stellen den Bezug zum Koordinatensystem her. Die Koordinaten basieren auf dem offiziellen Bezugsrahmen der Landesvermessung 1903 (LV03). Die Höhen bzw. Gebrauchshöhen stützen sich auf das offizielle Höhensystem des Landesnivellement von 1902 (LN02) ab. Die Genauigkeits- und Zuverlässigkeitsanforderungen richten sich nach den Toleranzstufen (TVAV Art. 3). Die Lage- und Höhengenauigkeit der Fixpunkte wird als Standardabweichung (mittlere Fehler) definiert (TVAV Art. 28). Die äussere Zuverlässigkeit eines jeden Fixpunktes wird durch geeignete statistische Kenngrössen nachgewiesen (TVAV Art. 34).",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Aargau",
+      "datensatz": "Gemeinden (Einzelflächen)",
+      "zusammenfassung": "Der Datensatz enthält die Aargauer Gemeinden, wobei die Gemeinden mit mehr als einer Teilfläche (Enklaven/Exklaven) einzeln erfasst sind. Der Datensatz basiert auf dem Datensatz der Gemeindegrenzen. Dieser enthält die Gemeinde-, Bezirks-, Kantons- und Landesgrenzen. Die Gemeindegrenzen wurden in erster Linie ab den Übersichtsplänen 1:5000 (1991) digitalisiert und werden nun laufend, wo vorhanden, durch die numerischen Gemeindegrenzen der amtlichen Vermessung ersetzt.",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Aargau",
+      "datensatz": "Gemeindenamen klein",
+      "zusammenfassung": "Der Datensatz enthält die Aargauer Gemeinden, wobei die Gemeinden mit mehr als einer Teilfläche (Enklaven/Exklaven) zusammengefasst sind. Der Datensatz basiert auf dem Datensatz der Gemeindegrenzen. Dieser enthält die Gemeinde-, Bezirks-, Kantons- und Landesgrenzen. Die Gemeindegrenzen wurden in erster Linie ab den Übersichtsplänen 1:5000 (1991) digitalisiert und werden nun laufend, wo vorhanden, durch die numerischen Gemeindegrenzen der amtlichen Vermessung ersetzt.",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Aargau",
+      "datensatz": "Gemeindenamen gross",
+      "zusammenfassung": "Der Datensatz enthält die Aargauer Gemeinden, wobei die Gemeinden mit mehr als einer Teilfläche (Enklaven/Exklaven) zusammengefasst sind. Der Datensatz basiert auf dem Datensatz der Gemeindegrenzen. Dieser enthält die Gemeinde-, Bezirks-, Kantons- und Landesgrenzen. Die Gemeindegrenzen wurden in erster Linie ab den Übersichtsplänen 1:5000 (1991) digitalisiert und werden nun laufend, wo vorhanden, durch die numerischen Gemeindegrenzen der amtlichen Vermessung ersetzt.",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Aargau",
+      "datensatz": "Gemeinden (inkl. Enklaven/Exklaven)",
+      "zusammenfassung": "Der Datensatz enthält die Aargauer Gemeinden, wobei die Gemeinden mit mehr als einer Teilfläche (Enklaven/Exklaven) zusammengefasst sind. Der Datensatz basiert auf dem Datensatz der Gemeindegrenzen. Dieser enthält die Gemeinde-, Bezirks-, Kantons- und Landesgrenzen. Die Gemeindegrenzen wurden in erster Linie ab den Übersichtsplänen 1:5000 (1991) digitalisiert und werden nun laufend, wo vorhanden, durch die numerischen Gemeindegrenzen der amtlichen Vermessung ersetzt.",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Zürich",
+      "datensatz": "Vektor-Übersichtsplan - Fläche (48.3)",
+      "zusammenfassung": "Der Vektor-Übersichtsplan setzt sich zusammen aus verschiedenen Geometrietypen (Punkt, Linie, Fläche). Zusätzlich wir ein Beschriftungslayer ergänzt, der auf Grundlage der Textpositionen der amtlichen Vermessung generiert wird.",
+      "service": "WFS",
+      "score": 75
+    },
+    {
+      "anbieter": "Zürich",
+      "datensatz": "Vektor-Übersichtsplan - Beschriftung (48.4)",
+      "zusammenfassung": "Der Vektor-Übersichtsplan setzt sich zusammen aus verschiedenen Geometrietypen (Punkt, Linie, Fläche). Zusätzlich wir ein Beschriftungslayer ergänzt, der auf Grundlage der Textpositionen der amtlichen Vermessung generiert wird.",
+      "service": "WFS",
+      "score": 75
+    },
+    {
+      "anbieter": "Zürich",
+      "datensatz": "Vektor-Übersichtsplan - Linie (48.2)",
+      "zusammenfassung": "Der Vektor-Übersichtsplan setzt sich zusammen aus verschiedenen Geometrietypen (Punkt, Linie, Fläche). Zusätzlich wir ein Beschriftungslayer ergänzt, der auf Grundlage der Textpositionen der amtlichen Vermessung generiert wird.",
+      "service": "WFS",
+      "score": 75
+    },
+    {
+      "anbieter": "Zürich",
+      "datensatz": "Gewässer Öffentliche und private Fliess- und Stehgewässer inkl. Verfügungsangaben (45.15)",
+      "zusammenfassung": "Dieser Datensatz umfasst den gesamten rechtskräftigen Bestand der öffentlichen oberirdischen Gewässer (Fliess- und Stehgewässer) inkl. Angaben zur dazugehörigen Gewässerfeststellungsverfügung.  Private Stehgewässer sind, sofern bekannt, ebenfalls enthalten.   Der Datensatz basiert auf dem Gewässerauszug der amtlichen Vermessung ARV_BASIS.AVZH\\ARV_BASIS.AVZH_GEWAESSER_F (GIS-ZH Nr. 536), welcher automatisiert auf die öffentlichen Gewässer reduziert (Gewässer mit hinterlegter Gewässernummer) und um die Verfügungsattribute ergänzt wird.  ",
+      "service": "WFS",
+      "score": 75
+    },
+    {
+      "anbieter": "Bund",
+      "datensatz": "Dufourkarte Erstausgabe",
+      "zusammenfassung": "Erstes amtliches Kartenwerk der Schweiz. Erstausgaben 1844 bis 1864, Nachführungen bis 1939. 25 Blätter. Kartenformat: 70 x 48 cm = 3360 km2. Geländedarstellung: Schattenschraffen, Reproduktionsart: Kupferstich, Druckverfahren: Tiefdruck (ab 1905 auch: Flachdruck) Anzahl der Farben: 1 (ab 1908: 2 und ab 1938: 3). Flächentreue unechte Kegelprojektion, Ellipsoid: Schmidt 1828. Ausgangshöhe: (Repère Pierre du Niton 376,2 m ü. M.).",
+      "service": "WMS",
+      "score": 75
+    },
+    {
+      "anbieter": "Bund",
+      "datensatz": "Gemeindeinformationen",
+      "zusammenfassung": "Statistische und administrative Angaben über die Gemeinde mit Link zum kantonalen Geodatenportal. Ausserdem finden Sie einen Link auf die Metadaten der amtlichen Vermessung. Der Auszug (INTERLIS-Datei) beinhaltet u.a. das Datum der letzten Nachführung jeder Informationsebene der amtlichen Vermessung, die Adresse der Ausgabestelle, das betroffene geografische Gebiet, Angaben zur Genauigkeit der Daten.",
+      "service": "WMS",
+      "score": 75
+    },
+    {
+      "anbieter": "BaselStadt",
+      "datensatz": "Amtliche Vermessung Kilometereinteilung",
+      "zusammenfassung": "nan",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Glarus",
+      "datensatz": "Bodenbedeckungsflächen schwarz-weiss amtliche Vermessung",
+      "zusammenfassung": "nan",
+      "service": "WMS",
+      "score": 0
+    },
+    {
+      "anbieter": "Glarus",
+      "datensatz": "Einzelobjektflächen schwarz-weiss amtliche Vermessung",
+      "zusammenfassung": "nan",
+      "service": "WMS",
+      "score": 0
+    },
+    {
+      "anbieter": "Glarus",
+      "datensatz": "Grundbücher amtliche Vermessung",
+      "zusammenfassung": "nan",
+      "service": "WMS",
+      "score": 0
+    },
+    {
+      "anbieter": "Glarus",
+      "datensatz": "Höhenmodell amtliche Vermessung 2016",
+      "zusammenfassung": "nan",
+      "service": "WMS",
+      "score": 0
+    },
+    {
+      "anbieter": "Glarus",
+      "datensatz": "Situation und Einzelobjekte amtliche Vermessung",
+      "zusammenfassung": "nan",
+      "service": "WMS",
+      "score": 0
+    },
+    {
+      "anbieter": "Glarus",
+      "datensatz": "Höhenmodell amtliche Vermessung 2019",
+      "zusammenfassung": "nan",
+      "service": "WMS",
+      "score": 0
+    },
+    {
+      "anbieter": "Glarus",
+      "datensatz": "Fixpunkte amtliche Vermessung",
+      "zusammenfassung": "nan",
+      "service": "WFS",
+      "score": 25
+    },
+    {
+      "anbieter": "Glarus",
+      "datensatz": "Projektierte Bodenbedeckungsflächen amtliche Vermessung",
+      "zusammenfassung": "nan",
+      "service": "WFS",
+      "score": 25
+    },
+    {
+      "anbieter": "Glarus",
+      "datensatz": "Bodenbedeckungsflächen schwarz-weiss amtliche Vermessung",
+      "zusammenfassung": "nan",
+      "service": "WFS",
+      "score": 25
+    },
+    {
+      "anbieter": "Glarus",
+      "datensatz": "Bodenbedeckungsflächen farbig amtliche Vermessung",
+      "zusammenfassung": "nan",
+      "service": "WFS",
+      "score": 25
+    },
+    {
+      "anbieter": "Glarus",
+      "datensatz": "Bodenbedeckung Namen amtliche Vermessung",
+      "zusammenfassung": "nan",
+      "service": "WFS",
+      "score": 25
+    },
+    {
+      "anbieter": "Glarus",
+      "datensatz": "Einzelobjektflächen schwarz-weiss amtliche Vermessung",
+      "zusammenfassung": "nan",
+      "service": "WFS",
+      "score": 25
+    },
+    {
+      "anbieter": "Glarus",
+      "datensatz": "Einzelobjektflächen farbig amtliche Vermessung",
+      "zusammenfassung": "nan",
+      "service": "WFS",
+      "score": 25
+    },
+    {
+      "anbieter": "Glarus",
+      "datensatz": "Einzelobjektlinien amtliche Vermessung",
+      "zusammenfassung": "nan",
+      "service": "WFS",
+      "score": 25
+    },
+    {
+      "anbieter": "Glarus",
+      "datensatz": "Einzelobjektpunkte amtliche Vermessung",
+      "zusammenfassung": "nan",
+      "service": "WFS",
+      "score": 25
+    },
+    {
+      "anbieter": "Glarus",
+      "datensatz": "Einzelobjektnamen amtliche Vermessung",
+      "zusammenfassung": "nan",
+      "service": "WFS",
+      "score": 25
+    },
+    {
+      "anbieter": "Glarus",
+      "datensatz": "Nomenklatur Flurnamen Ortsnamen amtliche Vermessung",
+      "zusammenfassung": "nan",
+      "service": "WFS",
+      "score": 25
+    },
+    {
+      "anbieter": "Glarus",
+      "datensatz": "Grenzpunkte amtliche Vermessung",
+      "zusammenfassung": "nan",
+      "service": "WFS",
+      "score": 25
+    },
+    {
+      "anbieter": "Glarus",
+      "datensatz": "Selbstständige und dauernde Rechte amtliche Vermessung",
+      "zusammenfassung": "nan",
+      "service": "WFS",
+      "score": 25
+    },
+    {
+      "anbieter": "Glarus",
+      "datensatz": "Grundstücksnummern amtliche Vermessung",
+      "zusammenfassung": "nan",
+      "service": "WFS",
+      "score": 25
+    },
+    {
+      "anbieter": "Glarus",
+      "datensatz": "Hoheitsgrenzpunkte amtliche Vermessung",
+      "zusammenfassung": "nan",
+      "service": "WFS",
+      "score": 25
+    },
+    {
+      "anbieter": "Glarus",
+      "datensatz": "Hoheitsgrenzabschnitte amtliche Vermessung",
+      "zusammenfassung": "nan",
+      "service": "WFS",
+      "score": 25
+    },
+    {
+      "anbieter": "Glarus",
+      "datensatz": "Lokalisationen amtliche Vermessung",
+      "zusammenfassung": "nan",
+      "service": "WFS",
+      "score": 25
+    },
+    {
+      "anbieter": "Glarus",
+      "datensatz": "Gebäudeadressen amtliche Vermessung",
+      "zusammenfassung": "nan",
+      "service": "WFS",
+      "score": 25
+    },
+    {
+      "anbieter": "Glarus",
+      "datensatz": "Gemeindegrenzen amtliche Vermessung",
+      "zusammenfassung": "nan",
+      "service": "WFS",
+      "score": 25
+    },
+    {
+      "anbieter": "Glarus",
+      "datensatz": "Grundbücher amtliche Vermessung",
+      "zusammenfassung": "nan",
+      "service": "WFS",
+      "score": 25
+    },
+    {
+      "anbieter": "Glarus",
+      "datensatz": "Gebäudegrundrisse amtliche Vermessung Glarus",
+      "zusammenfassung": "nan",
+      "service": "WFS",
+      "score": 25
+    },
+    {
+      "anbieter": "Glarus",
+      "datensatz": "Projektierte Liegenschaften amtliche Vermessung",
+      "zusammenfassung": "nan",
+      "service": "WFS",
+      "score": 25
+    },
+    {
+      "anbieter": "Glarus",
+      "datensatz": "Projektierte selbständige und dauernde Rechte amtliche Vermessung",
+      "zusammenfassung": "nan",
+      "service": "WFS",
+      "score": 25
+    },
+    {
+      "anbieter": "Glarus",
+      "datensatz": "Projektierte Grundstücksnummern amtliche Vermessung",
+      "zusammenfassung": "nan",
+      "service": "WFS",
+      "score": 25
+    },
+    {
+      "anbieter": "Glarus",
+      "datensatz": "Liegenschaften amtliche Vermessung",
+      "zusammenfassung": "nan",
+      "service": "WFS",
+      "score": 25
+    },
+    {
+      "anbieter": "Solothurn",
+      "datensatz": "Fixpunkte (amtliche Vermessung)",
+      "zusammenfassung": "nan",
+      "service": "WFS",
+      "score": 25
+    },
+    {
+      "anbieter": "Solothurn",
+      "datensatz": "Bodenbedeckung (amtliche Vermessung)",
+      "zusammenfassung": "nan",
+      "service": "WFS",
+      "score": 25
+    },
+    {
+      "anbieter": "Solothurn",
+      "datensatz": "Gebäudeeingänge (amtliche Vermesssung)",
+      "zusammenfassung": "nan",
+      "service": "WFS",
+      "score": 25
+    },
+    {
+      "anbieter": "Solothurn",
+      "datensatz": "Rohrleitungen (amtliche Vermessung)",
+      "zusammenfassung": "nan",
+      "service": "WFS",
+      "score": 25
+    },
+    {
+      "anbieter": "Solothurn",
+      "datensatz": "Benannte Gebiete (amtliche Vermessung)",
+      "zusammenfassung": "nan",
+      "service": "WFS",
+      "score": 25
+    },
+    {
+      "anbieter": "Solothurn",
+      "datensatz": "Amtliche Vermessung",
+      "zusammenfassung": "nan",
+      "service": "WMS",
+      "score": 0
+    },
+    {
+      "anbieter": "Solothurn",
+      "datensatz": "Gebäudeeingänge (amtliche Vermesssung)",
+      "zusammenfassung": "nan",
+      "service": "WMS",
+      "score": 0
+    },
+    {
+      "anbieter": "Solothurn",
+      "datensatz": "Flurnamen und Geländenamen (amtliche Vermessung)",
+      "zusammenfassung": "nan",
+      "service": "WMS",
+      "score": 0
+    },
+    {
+      "anbieter": "Solothurn",
+      "datensatz": "Grundstücke (amtliche Vermessung)",
+      "zusammenfassung": "nan",
+      "service": "WMS",
+      "score": 0
+    },
+    {
+      "anbieter": "Solothurn",
+      "datensatz": "Bodenbedeckung und Einzelobjekte (amtliche Vermessung)",
+      "zusammenfassung": "nan",
+      "service": "WMS",
+      "score": 0
+    },
+    {
+      "anbieter": "Aargau",
+      "datensatz": "Waldeigentum",
+      "zusammenfassung": "Besitzverhältnisse des Waldes (Staat, Gemeinde, privat etc.), Basis bilden die Waldausscheidung, die Parzellengrenzen der amtlichen Vermessung und die Forstorganisation.",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Aargau",
+      "datensatz": "Waldareal",
+      "zusammenfassung": "Der Datensatz enthält den statischen Wald bzw. das Waldareal gemäss §3 AWaG. Dieses ist Bestandteil der Informationsebene -Waldgrenzen- des Objektkataloges der amtlichen Vermessung.",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Aargau",
+      "datensatz": "Waldgrenze",
+      "zusammenfassung": "Der Datensatz enthält die Abgrenzungen des statischen Wald. Diese sind Bestandteil der Informationsebene -Waldgrenzen- des Objektkataloges der amtlichen Vermessung.",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Aargau",
+      "datensatz": "Gemeinden (Einzelflächen)",
+      "zusammenfassung": "Der Datensatz enthält die Aargauer Gemeinden, wobei die Gemeinden mit mehr als einer Teilfläche (Enklaven/Exklaven) einzeln erfasst sind. Der Datensatz basiert auf dem Datensatz der Gemeindegrenzen. Dieser enthält die Gemeinde-, Bezirks-, Kantons- und Landesgrenzen. Die Gemeindegrenzen wurden in erster Linie ab den Übersichtsplänen 1:5000 (1991) digitalisiert und werden nun laufend, wo vorhanden, durch die numerischen Gemeindegrenzen der amtlichen Vermessung ersetzt.",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Aargau",
+      "datensatz": "Gemeinden (inkl. Enklaven/Exklaven)",
+      "zusammenfassung": "Der Datensatz enthält die Aargauer Gemeinden, wobei die Gemeinden mit mehr als einer Teilfläche (Enklaven/Exklaven) zusammengefasst sind. Der Datensatz basiert auf dem Datensatz der Gemeindegrenzen. Dieser enthält die Gemeinde-, Bezirks-, Kantons- und Landesgrenzen. Die Gemeindegrenzen wurden in erster Linie ab den Übersichtsplänen 1:5000 (1991) digitalisiert und werden nun laufend, wo vorhanden, durch die numerischen Gemeindegrenzen der amtlichen Vermessung ersetzt.",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Aargau",
+      "datensatz": "Gemeindegrenzen",
+      "zusammenfassung": "Der Datensatz enthält die Gemeinde-, Bezirks-, Kantons- und Landesgrenzen. Die Gemeindegrenzen wurden in erster Linie ab den Übersichtsplänen 1:5000 (1991) digitalisiert und werden nun laufend, wo vorhanden, durch die numerischen Gemeindegrenzen der amtlichen Vermessung ersetzt.",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Aargau",
+      "datensatz": "Nachführungskreise und Nachführungsgeometer",
+      "zusammenfassung": "Der Datensatz enthält die Nachführungskreise und die Nachführungsgeometer, welche für die Nachführung der amtlichen Vermessung zuständig bzw. gewählt sind.",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Bern",
+      "datensatz": "In Arbeit stehende Perimeter",
+      "zusammenfassung": "Die in Arbeit stehenden Lose bilden die Entitäten, welche in der Datenbank AMO verwaltet werden. Es handelt sich um laufende Operate der amtlichen Vermessung nach mehreren Qualitätsstandards, in der Regel AV93 oder PN, welche als Zusatzinformation gelten. Ihre Darstellung ist sekundär.",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Bern",
+      "datensatz": "Anerkannter Stand",
+      "zusammenfassung": "Der aktuelle Stand der Vermessung bildet die Grundlage des Geoprodukts AMO. Diese Ebene deckt den gesamten Kanton ab und erlaubt eine aktuelle und umfassende Darstellung des heutigen Standes der amtlichen Vermessung nach mehreren Qualitätsstandards.",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Bern",
+      "datensatz": "Gebäudeadressen [Flächen]",
+      "zusammenfassung": "Die Ebene Gebäudeadressen (Flächen) enthält die postalischen Gebäudeadressen der ober- und unterirdischen Gebäude. Die Flächen leiten sich aus der amtlichen Vermessung ab. Wenn AV-Daten fehlen, wird eine Fläche um die Grobkoordinate generiert. Dies ist bei allen -Gebäude GRUDA- der Fall.",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Graubünden",
+      "datensatz": "Liegenschaften",
+      "zusammenfassung": "Liegenschaften der Amtlichen Vermessung",
+      "service": "WMS",
+      "score": 25
+    },
+    {
+      "anbieter": "Uri",
+      "datensatz": "CH051 Plan für das Grundbuch (farbe)",
+      "zusammenfassung": "Plan für das Grundbuch aus der Amtlichen Vermessung",
+      "service": "WMS",
+      "score": 25
+    },
+    {
+      "anbieter": "Uri",
+      "datensatz": "CH051 Plan für das Grundbuch (schwarzweiss)",
+      "zusammenfassung": "Plan für das Grundbuch aus der Amtlichen Vermessung Abbildung schwarz-weiss ohne projektierte Gebäude.",
+      "service": "WMS",
+      "score": 25
+    },
+    {
+      "anbieter": "Uri",
+      "datensatz": "CH055 Bodenbedeckung Flächen projektiert",
+      "zusammenfassung": "Projektierte Bodenbedeckung aus der Amtlichen Vermessung.",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Uri",
+      "datensatz": "CH058 Nomenklatur FlurnamenPos",
+      "zusammenfassung": "Flur-, Orts- und Geländenamen (= geografische Namen der amtlichen Vermessung) von geografischen Gebieten, Landschaftsteilen, Flurstücken, topografischen Objekten usw.",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Uri",
+      "datensatz": "CH059 Liegenschaften Flächen (projektiert)",
+      "zusammenfassung": "Projektierte Liegenschaften aus der Amtlichen Vermessung",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Uri",
+      "datensatz": "CH059 Liegenschaften Grenzpunkte",
+      "zusammenfassung": "Liegenschaftsgrenzpunkte aus der Amtlichen Vermessung",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Uri",
+      "datensatz": "CH059 Liegenschaften Selbstrechte",
+      "zusammenfassung": "Selbständige Rechte aus der Amtlichen Vermessung",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Uri",
+      "datensatz": "CH059 Liegenschaften Selbstrechte (projektiert)",
+      "zusammenfassung": "Projektierte Selbständige Rechte aus der Amtlichen Vermessung",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Uri",
+      "datensatz": "CH060 Gebäudeadressen Strassenstücke benannte Gebiete",
+      "zusammenfassung": "Benannte Gebiete der amtlichen Vermessung",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Uri",
+      "datensatz": "CH060 Gebäudeadressen Strassenstücke",
+      "zusammenfassung": "Strassenstücke der amtlichen Vermssung, zusammenfasst nach Strassennamen und BFSNr",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Uri",
+      "datensatz": "CH062 Hoheitsgrenzen Hoheitsgrenzpunkte",
+      "zusammenfassung": "Hoheitsgrenzpunkte aus der Amtlichen Vermessung",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Uri",
+      "datensatz": "CH054 Fixpunkte",
+      "zusammenfassung": "Die Fixpunkte bilden die Grundlage aller Daten mit Raumbezug. Darunter fallen beispielsweise die Daten der amtlichen Vermessung, die Landeskartenwerke, Leitungskataster, Daten in geographischen Informationssystemen, Zonenpäne etc. Es werden generell zwei Punktarten unterschieden: die Lagefixpunkte (LFP) und die Höhenfixpunkte (HFP).",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Uri",
+      "datensatz": "CH060 Gebäudeadressen PLZ",
+      "zusammenfassung": "Postleitzahl aus TOPIC «PLZOrtschaft» der amtlichen Vermessung.",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Uri",
+      "datensatz": "Biodiversitätsförderflächen im Sömmerungsgebiet",
+      "zusammenfassung": "Die Biodiversitätsförderflächen (BFF) im Sömmerungsgebiet beinhalten die -Artenreichen Grün- und Streueflächen im Sömmerungsgebiet-, die Teil des Geobasisdatensatzes Biodiversitätsförderflächen Qualitätsstufe II (ID 153.3) sind. In den Jahren 2013-2016 wurde der Qualitätsanteil sowie der Abzug der unproduktiven Flächenanteile für die einzelnen Teilflächen einer Alp im Feld beurteilt. Die Kontrolle der beurteilten Flächen im Feld erfolgt alle acht Jahre. Laufende Nachführungen der Amtlichen Vermessung (z.B. neue Strassen, Gebäude, Bachläufe usw.) werden jedoch jährlich im November aktualisiert.",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Uri",
+      "datensatz": "CH054 Fixpunkte",
+      "zusammenfassung": "Die Fixpunkte bilden die Grundlage aller Daten mit Raumbezug. Darunter fallen beispielsweise die Daten der amtlichen Vermessung, die Landeskartenwerke, Leitungskataster, Daten in geographischen Informationssystemen, Zonenpäne etc. Es werden generell zwei Punktarten unterschieden: die Lagefixpunkte (LFP) und die Höhenfixpunkte (HFP).",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Zürich",
+      "datensatz": "Gewässer Fliessgewässerausprägung (45.4)",
+      "zusammenfassung": "Information, ob Fliessgewässerabschnitte offen oder eingedolt sind sowie ob diese über ein eigenes AWEL-Gewässergrundstück verfügen oder nicht (Servitutsgewässer).  Beide Ausprägungen werden jeweils wöchentlich übers Wochenende automatisch auf Grundlage der amtlichen Vermessung (GIS-ZH Nr. 401, 402) und des Immobilienregisters (GIS-ZH Nr. 3) aktualisiert. ",
+      "service": "WFS",
+      "score": 75
+    },
+    {
+      "anbieter": "Zürich",
+      "datensatz": "Vektor-Übersichtsplan - Punkt (48.1)",
+      "zusammenfassung": "Der Vektor-Übersichtsplan setzt sich zusammen aus den Geometrietypen Punkt, Linie und Fläche. Zusätzlich wir ein Beschriftungslayer ergänzt, der auf Grundlage der Textpositionen der amtlichen Vermessung generiert wird.  Der Punktdatensatz enthält die unregelmässige Signaturierung des Waldes und der bestockten Flächen sowie die Höhenkoten. ",
+      "service": "WFS",
+      "score": 75
+    },
+    {
+      "anbieter": "Glarus",
+      "datensatz": "Fixpunkte amtliche Vermessung",
+      "zusammenfassung": "nan",
+      "service": "WMS",
+      "score": 0
+    },
+    {
+      "anbieter": "Glarus",
+      "datensatz": "Projektierte Bodenbedeckungsflächen amtliche Vermessung",
+      "zusammenfassung": "nan",
+      "service": "WMS",
+      "score": 0
+    },
+    {
+      "anbieter": "Glarus",
+      "datensatz": "Bodenbedeckungsflächen farbig amtliche Vermessung",
+      "zusammenfassung": "nan",
+      "service": "WMS",
+      "score": 0
+    },
+    {
+      "anbieter": "Glarus",
+      "datensatz": "Bodenbedeckung Namen amtliche Vermessung",
+      "zusammenfassung": "nan",
+      "service": "WMS",
+      "score": 0
+    },
+    {
+      "anbieter": "Glarus",
+      "datensatz": "Einzelobjektflächen farbig amtliche Vermessung",
+      "zusammenfassung": "nan",
+      "service": "WMS",
+      "score": 0
+    },
+    {
+      "anbieter": "Glarus",
+      "datensatz": "Einzelobjektlinien amtliche Vermessung",
+      "zusammenfassung": "nan",
+      "service": "WMS",
+      "score": 0
+    },
+    {
+      "anbieter": "Glarus",
+      "datensatz": "Einzelobjektpunkte amtliche Vermessung",
+      "zusammenfassung": "nan",
+      "service": "WMS",
+      "score": 0
+    },
+    {
+      "anbieter": "Glarus",
+      "datensatz": "Einzelobjektnamen amtliche Vermessung",
+      "zusammenfassung": "nan",
+      "service": "WMS",
+      "score": 0
+    },
+    {
+      "anbieter": "Glarus",
+      "datensatz": "Nomenklatur Flurnamen Ortsnamen amtliche Vermessung",
+      "zusammenfassung": "nan",
+      "service": "WMS",
+      "score": 0
+    },
+    {
+      "anbieter": "Glarus",
+      "datensatz": "Grenzpunkte amtliche Vermessung",
+      "zusammenfassung": "nan",
+      "service": "WMS",
+      "score": 0
+    },
+    {
+      "anbieter": "Glarus",
+      "datensatz": "Selbstständige und dauernde Rechte amtliche Vermessung",
+      "zusammenfassung": "nan",
+      "service": "WMS",
+      "score": 0
+    },
+    {
+      "anbieter": "Glarus",
+      "datensatz": "Grundstücksnummern amtliche Vermessung",
+      "zusammenfassung": "nan",
+      "service": "WMS",
+      "score": 0
+    },
+    {
+      "anbieter": "Glarus",
+      "datensatz": "Hoheitsgrenzpunkte amtliche Vermessung",
+      "zusammenfassung": "nan",
+      "service": "WMS",
+      "score": 0
+    },
+    {
+      "anbieter": "Glarus",
+      "datensatz": "Hoheitsgrenzabschnitte amtliche Vermessung",
+      "zusammenfassung": "nan",
+      "service": "WMS",
+      "score": 0
+    },
+    {
+      "anbieter": "Glarus",
+      "datensatz": "Lokalisationen amtliche Vermessung",
+      "zusammenfassung": "nan",
+      "service": "WMS",
+      "score": 0
+    },
+    {
+      "anbieter": "Glarus",
+      "datensatz": "Gebäudeadressen amtliche Vermessung",
+      "zusammenfassung": "nan",
+      "service": "WMS",
+      "score": 0
+    },
+    {
+      "anbieter": "Glarus",
+      "datensatz": "Gemeindegrenzen amtliche Vermessung",
+      "zusammenfassung": "nan",
+      "service": "WMS",
+      "score": 0
+    },
+    {
+      "anbieter": "Glarus",
+      "datensatz": "Gebäudegrundrisse amtliche Vermessung Glarus",
+      "zusammenfassung": "nan",
+      "service": "WMS",
+      "score": 0
+    },
+    {
+      "anbieter": "Glarus",
+      "datensatz": "Projektierte Liegenschaften amtliche Vermessung",
+      "zusammenfassung": "nan",
+      "service": "WMS",
+      "score": 0
+    },
+    {
+      "anbieter": "Glarus",
+      "datensatz": "Projektierte selbständige und dauernde Rechte amtliche Vermessung",
+      "zusammenfassung": "nan",
+      "service": "WMS",
+      "score": 0
+    },
+    {
+      "anbieter": "Glarus",
+      "datensatz": "Projektierte Grundstücksnummern amtliche Vermessung",
+      "zusammenfassung": "nan",
+      "service": "WMS",
+      "score": 0
+    },
+    {
+      "anbieter": "Glarus",
+      "datensatz": "Liegenschaften amtliche Vermessung",
+      "zusammenfassung": "nan",
+      "service": "WMS",
+      "score": 0
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung: Einzelobjekt farbig",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 25
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung: Einzelobjekt grau",
+      "zusammenfassung": "ch.sz.a018.amtliche_vermessung.einzelobjekt.grau",
+      "service": "WMS",
+      "score": 25
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Gebäudeadressen: Hausnummer",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Gebäudeadresse: Lokalisationsnamen",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 25
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Gebäudeadressen: Gebäudename",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Liegenschaften: Grundstück",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung: Liegenschaft",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 25
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Liegenschaften: Selbstrecht",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+      "service": "WMS",
+      "score": 25
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Liegenschaften: projektierte Liegenschaft",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+      "service": "WMS",
+      "score": 25
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Liegenschaften: Selbstrecht",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+      "service": "WMS",
+      "score": 25
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Liegenschaften: projektiertes Selbstrecht",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+      "service": "WMS",
+      "score": 25
+    },
+    {
+      "anbieter": "Aargau",
+      "datensatz": "Betreibungsämter",
+      "zusammenfassung": "Jede Einwohnergemeinde bildet einen Betreibungskreis (§ 1 Abs. 1 EG SchKG). Zwei oder mehr Einwohnergemeinden können sich mit Genehmigung der Schuldbetreibungs- und Konkurskommission des Obergerichts zu einem Betreibungskreis zusammenschliessen (§ 1 Abs. 2 EG SchKG). Eine Gemeinde gehört immer ganz zu genau einem Betreibungskreis. Die Geometrie des Geobasisdatensatzes basiert auf dem Geobasisdatensatz 62-CH «Hoheitsgrenzen (amtliche Vermessung)».",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Aargau",
+      "datensatz": "Konkurskreise",
+      "zusammenfassung": "Der Kanton bildet einen Konkurskreis (§ 2 Abs. 1 EG SchKG). Der Konkurskreis ist verwaltungstechnisch unterteilt in zuständige Amtsstellen, welche eine oder mehrere politische Gemeinden umfassen. Die Geometrie des Geobasisdatensatzes basiert auf dem Geobasisdatensatz 62-CH «Hoheitsgrenzen (amtliche Vermessung)».",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Aargau",
+      "datensatz": "Zivilstandskreise",
+      "zusammenfassung": "Beim Datensatz handelt es sich um dezentralisierte kommunale Organisationseinheiten zur Erledigung von Aufgaben im Bereich des Zivilstandswesens. Die Geometrie des Geobasisdatensatzes basiert auf dem Geobasisdatensatz 62-CH «Hoheitsgrenzen (amtliche Vermessung)».",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Bern",
+      "datensatz": "Kulturland",
+      "zusammenfassung": "Die Ebene Kulturland umfasst das Kulturland gemäss Art. 11a Bauverordnung. Die Abgrenzung des Kulturlandes ist weder behörden- noch grundeigentümerverbindlich, sondern dient als reine Informationsgrundlage. Die Darstellung des Kulturlandes basiert auf Daten des Agrarinformationssystems GELAN (Gesamtlösung EDV Landwirtschaft und Natur) und der in der Amtlichen Vermessung (AV) erfassten Bodennutzung. Das ausgewiesene Kulturland entspricht einem Zeitstand, der gegenüber dem Publikationszeitpunkt ein bis zwei Jahre oder länger zurückliegen kann. Die Nachführung erfolgt jährlich.  Wenn im Rahmen eines Plan- oder Bewilligungsverfahrens konkrete Hinweise dafür bestehen, dass eine in der Karte als Kulturland ausgewiesene Fläche nicht (mehr) Kulturland sei, wird empfohlen, bei der Fachstelle Boden des LANAT, Abt. Strukturverbesserungen und Produktion (bodenschutz@be.ch), eine Fachbeurteilung einzuholen.",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Bern",
+      "datensatz": "Verkehrslagenoten",
+      "zusammenfassung": "Die Daten enthalten die durch die kantonale Schätzungskommission festgesetzten Verkehrslagenoten je Gemeinde, respektive je Gemeindekreises (Kanton Bern). Diese Noten sind ein Bestandteil der amtlichen Bewertung von Grundstücken und sind ab dem Steuerjahr 2020 gültig. Die Benotung verläuft von 1 (schlechteste Note) bis 9 (beste Note).",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Solothurn",
+      "datensatz": "Fixpunkte (amtliche Vermessung)",
+      "zusammenfassung": "nan",
+      "service": "WMS",
+      "score": 0
+    },
+    {
+      "anbieter": "Solothurn",
+      "datensatz": "Hoheitsgrenzen (amtliche Vermessung)",
+      "zusammenfassung": "nan",
+      "service": "WMS",
+      "score": 0
+    },
+    {
+      "anbieter": "Solothurn",
+      "datensatz": "Gebäudeadressen (amtliche Vermessung)",
+      "zusammenfassung": "nan",
+      "service": "WMS",
+      "score": 0
+    },
+    {
+      "anbieter": "Solothurn",
+      "datensatz": "Rohrleitungen (amtliche Vermessung)",
+      "zusammenfassung": "nan",
+      "service": "WMS",
+      "score": 0
+    },
+    {
+      "anbieter": "Uri",
+      "datensatz": "Biodiversitätsförderflächen im Sömmerungsgebiet",
+      "zusammenfassung": "Die Biodiversitätsförderflächen (BFF) im Sömmerungsgebiet beinhalten die -Artenreichen Grün- und Streueflächen im Sömmerungsgebiet-, die Teil des Geobasisdatensatzes Biodiversitätsförderflächen Qualitätsstufe II (ID 153.3) sind. In den Jahren 2013-2016 wurde der Qualitätsanteil sowie der Abzug der unproduktiven Flächenanteile für die einzelnen Teilflächen einer Alp im Feld beurteilt. Die Kontrolle der beurteilten Flächen im Feld erfolgt alle acht Jahre. Laufende Nachführungen der Amtlichen Vermessung (z.B. neue Strassen, Gebäude, Bachläufe usw.) werden jedoch jährlich im November aktualisiert.",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Zürich",
+      "datensatz": "Gewässer Fliessgewässerrouten (45.2)",
+      "zusammenfassung": "Geroutete (metrierte) Achsen der öffentlichen Fliessgewässer. Sie bilden ein topologisch geschlossenes Netzwerk (seltene Ausnahmen: Versickerungsstellen und Einleitungen in die Mischwasserkanalisation) und dienen den dazugehörigen Fachdaten (Eventtabellen) als Basisgeometrien (z.B. Gewässerbezeichnung, Fliessgewässerökomorphologie).  Die Lage der Fliessgewässerlinien wird als Mittelachsen auf Grundlage der amtlichen Vermessung nachgeführt (siehe auch Datengrundlage). Beginn und Ende der öffentlichen Fliessgewässer im GIS entsprechen den rechtskräftigen AWEL-Gewässerplänen und -verzeichnissen. Wasserrechtskanäle werden in einem separaten Datensatz geführt (GIS-ZH Nr. 51.2).  HINWEIS:  Aufgrund eines Softwarefehlers wird derzeit bei der Datenabgabe als ESRI Geodatabase der M-Wert für die Metrierung der gerouteten Gewässerachsen (WB_FLIESSGEWAESSER_L_M) leider nicht mitgegeben. Bei den anderen Formaten (Shapefile etc.) hingegen funktioniert es. (kar, 23.9.2019)",
+      "service": "WFS",
+      "score": 75
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Bodenbedeckung: Bodenbedeckung farbig",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Bodenbedeckung: Bodenbedeckung grau",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Bodenbedeckung: Objektname",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Bodenbedeckung: projektierter Objektname",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Bodenbedeckung: projektierte Bodenbedeckung farbig",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Bodenbedeckung: Gebäudenummer",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Bodenbedeckung: Gebäude",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Bodenbedeckung: projektierte Gebäudenummer",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Bodenbedeckung: projektiertes Gebäude",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Einzelobjekt: Objektname",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Einzelobjekt: Objektnummer Position",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung: Lagefixpunkt Kategorie 3",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung: Höhenfixpunkt Kategorie 1",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung: Höhenfixpunkt Kategorie 2",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung: Höhenfixpunkt Kategorie 3",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Gebäudeadressen: Gebäudeeingang",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Gebäudeadressen: Benanntes Gebiet",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Liegenschaften: Grenzpunkt",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7f59662-ba37-4f93-9a5d-b1e5e79ad5fe",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Nomenklatur: Flurname",
+      "zusammenfassung": "Flurname Bezeichnung, Link zu den Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/944c4fe1-e9eb-4efa-b184-d26494e8da5e",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Nomenklatur: Ortsnamen",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/944c4fe1-e9eb-4efa-b184-d26494e8da5e",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Nomenklatur: Ortsnamen Position",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/944c4fe1-e9eb-4efa-b184-d26494e8da5e",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Nomenklatur: Geländenamen",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Toleranzstufeneinteilung: Toleranzstufe 2",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/96581502-9f78-4b39-b23a-25445a7d5fd0",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Toleranzstufeneinteilung: Toleranzstufe 3",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/96581502-9f78-4b39-b23a-25445a7d5fd0",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Toleranzstufeneinteilung: Toleranzstufe 4",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/96581502-9f78-4b39-b23a-25445a7d5fd0",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Toleranzstufeneinteilung: Toleranzstufe 5",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/96581502-9f78-4b39-b23a-25445a7d5fd0",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Aargau",
+      "datensatz": "AV: Höhenfixpunkte (HFP1-3)",
+      "zusammenfassung": "Die Höhenfixpunkte sind Bestandteil der Informationsebene -Fixpunkte- des Objektkataloges der amtlichen Vermessung. Der Datensatz enthält die Höhenfixpunkte der Kategorie 1 (Punkte des Landesnivellement), der Kategorie 2 (Punkte des kantonalen Nivellement) und der Kategorie 3 (Punkte von kommunalen Nivellementen). Die Höhen bzw. Gebrauchshöhen stützen sich auf das offizielle Höhensystem des Landesnivellement von 1902 (LN02) ab. Die Koordinaten basieren auf dem offiziellen Bezugsrahmen der Landesvermessung 1903 (LV03). Die Genauigkeits- und Zuverlässigkeitsanforderungen richten sich nach den Toleranzstufen (TVAV Art. 3). Die Lage- und Höhengenauigkeit der Fixpunkte wird als Standardabweichung (mittlere Fehler) definiert (TVAV Art. 28). Die äussere Zuverlässigkeit eines jeden Fixpunktes wird durch geeignete statistische Kenngrössen nachgewiesen (TVAV Art. 34).",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Bern",
+      "datensatz": "Bewirtschaftungseinheiten",
+      "zusammenfassung": "Die Ebene «Bewirtschaftungseinheit» zeigt, welche Flächen von welchem Betrieb bewirtschaftet werden. Eine Bewirtschaftungseinheit wird in der Regel aus den Parzellen der amtlichen Vermessung generiert wobei aneinandergrenzende Parzellen, welche vom gleichen Bewirtschafter bewirtschaftet werden, zu einer Bewirtschaftungseinheit zusammengefasst werden. Die Bewirtschaftungseinheiten sind nutzungsunabhängig und können über Gemeinde-, und Kantonsgrenzen hinausragen. Die Summe aller Bewirtschaftungseinheiten eines Betriebes ergibt die Betriebsfläche. Die Bewirtschaftungseinheit bildet die Grundlage für die Erfassung der räumlich geführten Kulturen der «Nutzungsflächen». Einem Betrieb bzw. einer Produktionsstätte können die dazugehörenden Bewirtschaftungseinheiten über das Attribut BEWEID zugeordnet werden.",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Bern",
+      "datensatz": "Bewirtschaftungseinheiten [provisorisch]",
+      "zusammenfassung": "Die Ebene «Bewirtschaftungseinheit (provisorisch)» zeigt, welche Flächen von welchem Betrieb bewirtschaftet werden. Eine Bewirtschaftungseinheit wird in der Regel aus den Parzellen der amtlichen Vermessung generiert wobei aneinandergrenzende Parzellen, welche vom gleichen Bewirtschafter bewirtschaftet werden, zu einer Bewirtschaftungseinheit zusammengefasst werden. Die Bewirtschaftungseinheiten sind nutzungsunabhängig und können über Gemeinde-, und Kantonsgrenzen hinausragen. Die Summe aller Bewirtschaftungseinheiten eines Betriebes ergibt die Betriebsfläche. Die Bewirtschaftungseinheit bildet die Grundlage für die Erfassung der räumlich geführten Kulturen der «Nutzungsflächen (provisorisch)». Einem Betrieb bzw. einer Produktionsstätte können die dazugehörenden Bewirtschaftungseinheiten über das Attribut BEWEID zugeordnet werden.",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Zug",
+      "datensatz": "Basisplan",
+      "zusammenfassung": "Der Basisplan der amtlichen Vermessung -BP-AV- ist der Nachfolger des Übersichtsplans 1:5-000. Er deckt die Massstäbe 1:2-500 1:5-000 und 1:10-000 ab.",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Zug",
+      "datensatz": "Kantonsgrenze",
+      "zusammenfassung": "Kantonsgrenze aus der amtlichen Vermessung.",
+      "service": "WMS",
+      "score": 25
+    },
+    {
+      "anbieter": "Zug",
+      "datensatz": "Kantonsgrenze Maske",
+      "zusammenfassung": "Maske der Kantonsgrenze zur Abdeckung. Aus der amtlichen Vermessung.",
+      "service": "WMS",
+      "score": 25
+    },
+    {
+      "anbieter": "FL_LI",
+      "datensatz": "Basisplan farbig 1:10000",
+      "zusammenfassung": "Basisplan der Amtlichen Vermessung 1:10000",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "FL_LI",
+      "datensatz": "Basisplan schwarz/weiss 1:10000",
+      "zusammenfassung": "Basisplan der Amtlichen Vermessung 1:10000",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "FL_LI",
+      "datensatz": "Basisplan farbig 1:5000",
+      "zusammenfassung": "Basisplan der Amtlichen Vermessung 1:5000",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "FL_LI",
+      "datensatz": "Basisplan schwarz/weiss 1:5000",
+      "zusammenfassung": "Basisplan der Amtlichen Vermessung 1:5000",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "FL_LI",
+      "datensatz": "Postleitzahlen",
+      "zusammenfassung": "Postleitzahlen der Amtlichen Vermessung",
+      "service": "WMS",
+      "score": 75
+    },
+    {
+      "anbieter": "AppenzellInnerrhoden",
+      "datensatz": "Amtliche Vermessung farbig Gde",
+      "zusammenfassung": "Diese Karte zeigt in roter Farbe den pendenten, bzw. projektierten Stand der amtlichen Vermessung und in schwarz, bzw. farbig deren aktuellen, rechtsgültigen Stand und den kommunalen Übersichtsplan sowie die Landeskarten von swisstopo 1:50-000 bis 1:1-000-000 in farbiger Darstellung an.",
+      "service": "WMS",
+      "score": 75
+    },
+    {
+      "anbieter": "AppenzellInnerrhoden",
+      "datensatz": "Amtliche Vermessung Gde",
+      "zusammenfassung": "Diese Karte zeigt in roter Farbe den pendenten, bzw. projektierten Stand der amtlichen Vermessung und in schwarz/weisser Darstellung deren aktuellen, rechtsgültigen Stand, mit Graustufenfüllung der Gebäude, sowie den kommunalen Übersichtsplan und die Landeskarten von swisstopo 1:50-000 bis 1:1-000-000 in Graustufen an.",
+      "service": "WMS",
+      "score": 75
+    },
+    {
+      "anbieter": "AppenzellInnerrhoden",
+      "datensatz": "Amtliche Vermessung Gde Kt AR",
+      "zusammenfassung": "Diese Karte zeigt in roter Farbe den pendenten, bzw. projektierten Stand der amtlichen Vermessung und in schwarz/weisser Darstellung deren aktuellen, rechtsgültigen Stand, mit Graustufenfüllung der Gebäude, sowie den kommunalen Übersichtsplan und die Landeskarten von swisstopo 1:50-000 bis 1:1-000-000 in Graustufen an.",
+      "service": "WMS",
+      "score": 75
+    },
+    {
+      "anbieter": "AppenzellInnerrhoden",
+      "datensatz": "Amtliche Vermessung grau Gde",
+      "zusammenfassung": "Diese Karte zeigt in roter Farbe den pendenten, bzw. projektierten Stand der amtlichen Vermessung und in grau/weisser Darstellung deren aktuellen, rechtsgültigen Stand, mit Graustufenfüllung der Gebäude, sowie den kommunalen Übersichtsplan und die Landeskarten von swisstopo 1:50-000 bis 1:1-000-000 in Graustufen an.",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "AppenzellInnerrhoden",
+      "datensatz": "Amtliche Vermessung grau Kt AR",
+      "zusammenfassung": "Diese Karte zeigt in roter Farbe den pendenten, bzw. projektierten Stand der amtlichen Vermessung und in grau/weisser Darstellung deren aktuellen, rechtsgültigen Stand, mit Graustufenfüllung der Gebäude, sowie den kommunalen Übersichtsplan und die Landeskarten von swisstopo 1:50-000 bis 1:1-000-000 in Graustufen an.",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "AppenzellInnerrhoden",
+      "datensatz": "Amtliche Vermessung, Hintergrund Gde",
+      "zusammenfassung": "Diese Karte zeigt in roter Farbe den pendenten, bzw. projektierten Stand der amtlichen Vermessung und in schwarz/weisser Darstellung deren aktuellen, rechtsgültigen Stand, mit Graustufenfüllung der Gebäude, sowie den kommunalen Übersichtsplan und die Landeskarten von swisstopo 1:50-000 bis 1:1-000-000 in Graustufen an.",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "AppenzellAusserrhoden",
+      "datensatz": "Amtliche Vermessung Gde Kt AR",
+      "zusammenfassung": "Diese Karte zeigt in roter Farbe den pendenten, bzw. projektierten Stand der amtlichen Vermessung und in schwarz/weisser Darstellung deren aktuellen, rechtsgültigen Stand, mit Graustufenfüllung der Gebäude, sowie den kommunalen Übersichtsplan und die Landeskarten von swisstopo 1:50-000 bis 1:1-000-000 in Graustufen an.",
+      "service": "WMS",
+      "score": 75
+    },
+    {
+      "anbieter": "AppenzellAusserrhoden",
+      "datensatz": "Amtliche Vermessung grau Kt AR",
+      "zusammenfassung": "Diese Karte zeigt in roter Farbe den pendenten, bzw. projektierten Stand der amtlichen Vermessung und in grau/weisser Darstellung deren aktuellen, rechtsgültigen Stand, mit Graustufenfüllung der Gebäude, sowie den kommunalen Übersichtsplan und die Landeskarten von swisstopo 1:50-000 bis 1:1-000-000 in Graustufen an.",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Aargau",
+      "datensatz": "Betreibungskreise",
+      "zusammenfassung": "Jede Einwohnergemeinde bildet einen Betreibungskreis (§ 1 Abs. 1 EG SchKG). Zwei oder mehr Einwohnergemeinden können sich mit Genehmigung der Schuldbetreibungs- und Konkurskommission des Obergerichts zu einem Betreibungskreis zusammenschliessen (§ 1 Abs. 2 EG SchKG). Eine Gemeinde gehört immer ganz zu genau einem Betreibungskreis. Die Geometrie des Geobasisdatensatzes basiert auf dem Geobasisdatensatz 62-CH «Hoheitsgrenzen (amtliche Vermessung)».",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Aargau",
+      "datensatz": "Konkurskreise",
+      "zusammenfassung": "Der Kanton bildet einen Konkurskreis (§ 2 Abs. 1 EG SchKG). Der Konkurskreis ist verwaltungstechnisch unterteilt in zuständige Amtsstellen, welche eine oder mehrere politische Gemeinden umfassen. Die Geometrie des Geobasisdatensatzes basiert auf dem Geobasisdatensatz 62-CH «Hoheitsgrenzen (amtliche Vermessung)».",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Aargau",
+      "datensatz": "Zivilstandskreise",
+      "zusammenfassung": "Beim Datensatz handelt es sich um dezentralisierte kommunale Organisationseinheiten zur Erledigung von Aufgaben im Bereich des Zivilstandswesens. Die Geometrie des Geobasisdatensatzes basiert auf dem Geobasisdatensatz 62-CH «Hoheitsgrenzen (amtliche Vermessung)».",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Bund",
+      "datensatz": "CadastralWebMap",
+      "zusammenfassung": "Basis ist ein Darstellungsdienst (Web Map service), der aus Daten des AV-Geoportals des Bundes kreiert wird, dessen Inhalt gegenüber den vollständigen Daten der amtlichen Vermessung (AV) jedoch reduziert ist.",
+      "service": "WMTS",
+      "score": 75
+    },
+    {
+      "anbieter": "Bund",
+      "datensatz": "LV95 Transformationsgenauigkeit",
+      "zusammenfassung": "Aus der kombinierten Genauigkeitskarte kann abgeleitet werden, wie genau in LV03 (mit realtime-Fineltra) oder LV95 in Bezug zu den Referenzdaten der Landes- und amtlichen Vermessung (Bezugsrahmen) mit GNSS gemessen werden kann, z.B. mit dem Positionierungsdienst swipos. So kann beispielsweise in den spannungsarmen Gebieten auf eine sogenannte lokale Einpassung verzichtet werden. Weitere Informationen zur Anwendung der kombinierten Genauigkeitskarte entnehmen Sie bitte dem -Link zu Detailbeschreibung- weiter unten.",
+      "service": "WMTS",
+      "score": 75
+    },
+    {
+      "anbieter": "Bund",
+      "datensatz": "Spannungsarme Gebiete",
+      "zusammenfassung": "Bei Feldarbeiten in der amtlichen Vermessung muss jeweils eine lokale Einpassung durchgeführt werden oder zumindest der Nachweis erbracht werden, dass auf eine solche verzichtet werden kann. In spannungsarmen Gebieten erübrigt sich eine lokale Einpassung, weil die geometrische Genauigkeit erhöhten Qualitätskriterien entspricht. In der praktischen Anwendung erleichtert die Kenntnis solcher spannungsarmen Gebiete die Arbeiten mit satellitengestützten Messmethoden, insbesondere mit Positionierungsdiensten wie zum Beispiel swipos.",
+      "service": "WMTS",
+      "score": 75
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung: Gebäude farbig (für Ortsplan)",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung: projektiertes Gebäude farbig (für Ortsplan)",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Einzelobjekte: Flächenelement farbig (für Ortsplan)",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Einzelobjekte: Flächenelement Brücke farbig (für Ortsplan)",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Einzelobjekte: Linienelement farbig (für Ortsplan)",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Einzelobjekte: Punktelement farbig (für Ortsplan)",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Gebäudeadressen: Strassenname (für Ortsplan)",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermesssung/Gebäudeadresse: Hausnummer (für Ortsplan)",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Nomenklatur: Flurname (für Ortsplan)",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Gebäudeadressen: Platzname (für Ortsplan)",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Bodenbedeckung schwarz-weiss (für Ortsplan)",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Bodenbedeckung: Gebäudefläche schwarz-weiss (für Ortsplan)",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Einzelobjekte: Flächenelement schwarz-weiss (für Ortsplan)",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Bodenbedeckung schwarz-weiss (für Ortsplan)",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Bodenbedeckung: Gebäude schwarz-weiss (für Ortsplan)",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Bodenbedeckung: projektiertes Gebäude schwarz-weiss (für Ortsplan)",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Einzelobjekte: Flächenelement schwarz-weiss (für Ortsplan)",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Einzelobjekte: Flächenelement Brücke schwarz-weiss (für Ortsplan)",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Einzelobjekte: Linienelement scharz-weiss (für Ortsplan)",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Einzelobjekte: Punktelement schwarz-weiss (für Ortsplan)",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Gebäudeadressen: Hausnummer (für Ortsplan)",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Nomenklatur: Flurname (für Ortsplan)",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Gebäudeadressen: Platzname (für Ortsplan)",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Gebäudeadressen: Strassenname (für Ortsplan)",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Einzelobjekt: Flächenelement farbig",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Einzelobjekt: Linienelement farbig",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Einzelobjekt: Punktelement farbig",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Einzelobjekt: Flächenelement grau",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Einzelobjekt: Linienelement grau",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Einzelobjekt: Punktelement grau",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung: Lagefixpunkt Kategorie 1",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung: Lagefixpunkt Kategorie 1",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung: Lagefixpunkt Kategorie 2",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung: Lagefixpunkt Kategorie 2",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Gebäudeadressen: Lokalisation vom Typ Strasse",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Gebäudeadressen: Lokalisation vom Typ Platz",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Gebäudeadressen: Lokalisation vom Typ Gebiet",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung: Liegenschaft",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Liegenschaften: Liegenschaftsnummer",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Liegenschaften: Hilfslinie für Liegenschaftsnummer",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung: Liegenschaft, ÖREB",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Liegenschaften: Liegenschaftsnummer",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Liegenschaften: Hilfslinie für Liegenschaftsnummer",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Liegenschaften: Selbstrecht",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Liegenschaften: Selbstrechtnummer",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Liegenschaften: Hilfslinie für Selbstrechtnummer",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Liegenschaften: proj, Liegenschaft",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Liegenschaften: proj. Liegenschaftsnummer",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Liegenschaften: Hilfslinie für proj. Liegenschaftsnummer",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Liegenschaften: Selbstrecht",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Liegenschaften: Selbstrechtnummer",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Liegenschaften: Hilfslinie für Selbstrechtnummer",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Liegenschaften: proj. Selbstrecht",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Liegenschaften: proj. Selbstrechtnummer",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Liegenschaften: Hilfslinie für proj. Selbstrecht",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung: Bodenbedeckung farbig (für Ortsplan)",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung: Gebäude farbig (für Ortsplan)",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung: projektiertes Gebäude farbig (für Ortsplan)",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Einzelobjekte: Flächenelement farbig (für Ortsplan)",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Einzelobjekte: Flächenelement Brücke farbig (für Ortsplan)",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Einzelobjekte: Linienelement farbig (für Ortsplan)",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Einzelobjekte: Punktelement farbig (für Ortsplan)",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Gebäudeadressen: Strassenname (für Ortsplan)",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermesssung/Gebäudeadresse: Hausnummer (für Ortsplan)",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Nomenklatur: Flurname (für Ortsplan)",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Gebäudeadressen: Platzname (für Ortsplan)",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Bodenbedeckung schwarz-weiss (für Ortsplan)",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Bodenbedeckung: Gebäudefläche schwarz-weiss (für Ortsplan)",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Einzelobjekte: Flächenelement schwarz-weiss (für Ortsplan)",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Bodenbedeckung schwarz-weiss (für Ortsplan)",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Bodenbedeckung: Gebäude schwarz-weiss (für Ortsplan)",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Bodenbedeckung: projektiertes Gebäude schwarz-weiss (für Ortsplan)",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Einzelobjekte: Flächenelement schwarz-weiss (für Ortsplan)",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Einzelobjekte: Flächenelement Brücke schwarz-weiss (für Ortsplan)",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Einzelobjekte: Linienelement scharz-weiss (für Ortsplan)",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Einzelobjekte: Punktelement schwarz-weiss (für Ortsplan)",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Gebäudeadressen: Hausnummer (für Ortsplan)",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Nomenklatur: Flurname (für Ortsplan)",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Gebäudeadressen: Platzname (für Ortsplan)",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Gebäudeadressen: Strassenname (für Ortsplan)",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Bodenbedeckung: Bodenbedeckung farbig",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Bodenbedeckung: Bodenbedeckung grau",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Bodenbedeckung: Objektname",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Bodenbedeckung: projektierter Objektname",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Bodenbedeckung: projektierte Bodenbedeckung farbig",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Bodenbedeckung: Gebäudenummer",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Bodenbedeckung: Gebäude",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Bodenbedeckung: projektierte Gebäudenummer",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Bodenbedeckung: projektiertes Gebäude",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Einzelobjekt: Flächenelement farbig",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Einzelobjekt: Linienelement farbig",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Einzelobjekt: Punktelement farbig",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Einzelobjekt: Flächenelement grau",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Einzelobjekt: Linienelement grau",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Einzelobjekt: Punktelement grau",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Einzelobjekt: Objektname",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Einzelobjekt: Objektnummer Position",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung: Lagefixpunkt Kategorie 1",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung: Lagefixpunkt Kategorie 1",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung: Lagefixpunkt Kategorie 2",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung: Lagefixpunkt Kategorie 2",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung: Lagefixpunkt Kategorie 3",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung: Höhenfixpunkt Kategorie 1",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung: Höhenfixpunkt Kategorie 2",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung: Höhenfixpunkt Kategorie 3",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Gebäudeadressen: Gebäudeeingang",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Gebäudeadressen: Hausnummer",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Gebäudeadressen: Lokalisation vom Typ Strasse",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Gebäudeadressen: Lokalisation vom Typ Platz",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Gebäudeadressen: Lokalisation vom Typ Gebiet",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Gebäudeadressen: Benanntes Gebiet",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Gebäudeadressen: Gebäudename",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Liegenschaften: Grundstück",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung: Liegenschaft",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Liegenschaften: Liegenschaftsnummer",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Liegenschaften: Hilfslinie für Liegenschaftsnummer",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung: Liegenschaft, ÖREB",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Liegenschaften: Liegenschaftsnummer",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Liegenschaften: Hilfslinie für Liegenschaftsnummer",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Liegenschaften: Selbstrecht",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Liegenschaften: Selbstrechtnummer",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Liegenschaften: Hilfslinie für Selbstrechtnummer",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Liegenschaften: proj, Liegenschaft",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Liegenschaften: proj. Liegenschaftsnummer",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Liegenschaften: Hilfslinie für proj. Liegenschaftsnummer",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Liegenschaften: Selbstrecht",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Liegenschaften: Selbstrechtnummer",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Liegenschaften: Hilfslinie für Selbstrechtnummer",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Liegenschaften: proj. Selbstrecht",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Liegenschaften: proj. Selbstrechtnummer",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Liegenschaften: Hilfslinie für proj. Selbstrecht",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Liegenschaften: Grenzpunkt",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7f59662-ba37-4f93-9a5d-b1e5e79ad5fe",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Nomenklatur: Flurname",
+      "zusammenfassung": "Flurname Bezeichnung, Link zu den Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/944c4fe1-e9eb-4efa-b184-d26494e8da5e",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Nomenklatur: Ortsnamen",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/944c4fe1-e9eb-4efa-b184-d26494e8da5e",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Nomenklatur: Ortsnamen Position",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/944c4fe1-e9eb-4efa-b184-d26494e8da5e",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Nomenklatur: Geländenamen",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Toleranzstufeneinteilung: Toleranzstufe 2",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/96581502-9f78-4b39-b23a-25445a7d5fd0",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Toleranzstufeneinteilung: Toleranzstufe 3",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/96581502-9f78-4b39-b23a-25445a7d5fd0",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Toleranzstufeneinteilung: Toleranzstufe 4",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/96581502-9f78-4b39-b23a-25445a7d5fd0",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schwyz",
+      "datensatz": "Amtliche Vermessung/Toleranzstufeneinteilung: Toleranzstufe 5",
+      "zusammenfassung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/96581502-9f78-4b39-b23a-25445a7d5fd0",
+      "service": "WFS",
+      "score": 50
+    },
+    {
+      "anbieter": "Bund",
+      "datensatz": "Zeitreise - Kartenwerke",
+      "zusammenfassung": "Das Bundesamt für Landestopografie swisstopo hat seit seiner Gründung durch Guillaume-Henri Dufour im Jahre 1838 drei amtliche Landeskartenwerke produziert: die Topographische Karte der Schweiz 1:100’000 (Dufourkarte), den Topographischen Atlas der Schweiz 1:25’000 / 1:50’000 (Siegfriedkarte) und die Landeskarte der Schweiz in verschiedenen Massstäben. Die Gesamtheit dieser Bestände bildet ein Kulturgut von nationaler Bedeutung, das als «topographisches Landschaftsgedächtnis der Schweiz» bezeichnet werden kann. Mit der «Zeitreise» lässt sich der Landschaftswandel anhand dieser Kartenwerke auf interaktive Weise erfahren.",
+      "service": "WMTS",
+      "score": 75
+    },
+    {
+      "anbieter": "Zug",
+      "datensatz": "Kanton ZG, Grundbuchplan (WMS)",
+      "zusammenfassung": "Der Grundbuchplan informiert über Grundstücke, Bodenbedeckung und weitere Ebenen der amtlichen Vermessung. Der Planinhalt ist teilweise generalisiert. Je nach Zoomstufe ändert sich der Detaillierungsgrad.",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Bund",
+      "datensatz": "CO₂-Emissionen Gebäude (SIA 380/1)",
+      "zusammenfassung": "Der Schweizer Gebäudepark ist für rund einen Viertel der CO2-Emissionen verantwortlich. Reduktionen in diesem Bereich sind zentral für die Erreichung der Klimaziele. Mit der Karte «CO2-Emissionen Gebäude (SIA 380/1)» kann für jedes Wohngebäude abgeschätzt werden, wie viel CO2 ausgestossen wird. Diese CO2-Emissionen werden für Normbedingungen für den Heizwärme- und Warmwasserbedarf gerechnet. Für die Berechnung werden die öffentlich zugänglichen Input-Daten aus dem eidgenössischen Gebäude- und Wohnungsregister GWR des Bundesamtes für Statistik beigezogen. Diese Daten sind nicht überall aktuell und beinhalten keine ausreichenden Informationen zu Gebäudesanierungen. Mit einem interaktiven CO₂-Rechner kann simuliert werden, wie sich der CO2-Wert verändert, wenn energetische Sanierungen mitberücksichtigt werden oder ein Energieträgerwechsel vorgenommen wird. Die eingegebenen Daten werden nicht gespeichert. Dieses Tool können Sie bei jedem Gebäude unter «Objekt-Information» nutzen. Die Angaben sind als grobe Einschätzung zu verstehen und stellen keine amtlichen oder verbindlichen Angaben dar. Die CO2-Visualisierung mit dem CO2-Rechner schafft Transparenz und zeigt auf, dass es besonders wichtig ist, die GWR-Daten aktuell zu halten. Gebäudebesitzende können selber mithelfen, die klima- und energierelevanten Gebäudedaten im GWR aktuell zu halten. In einem Link bei «Objekt-Information» zu jedem Gebäude findet sich der Beschrieb, wie allfällige veraltete Angaben gemeldet werden können. Weitere Informationen finden Sie unter www.bafu.admin.ch/CO2-Rechner-Gebaeude.",
+      "service": "WMTS",
+      "score": 75
+    },
+    {
+      "anbieter": "Zug",
+      "datensatz": "Kanton ZG, Adressplan (WMS/WFS)",
+      "zusammenfassung": "PLZ, Ortschaft, Hausnummern und Strassenachsen aus der amtlichen Vermessung",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Bund",
+      "datensatz": "Spannungsarme Gebiete",
+      "zusammenfassung": "Bei Feldarbeiten in der amtlichen Vermessung muss jeweils eine lokale Einpassung durchgeführt werden oder zumindest der Nachweis erbracht werden, dass auf eine solche verzichtet werden kann. In spannungsarmen Gebieten erübrigt sich eine lokale Einpassung, weil die geometrische Genauigkeit erhöhten Qualitätskriterien entspricht. In der praktischen Anwendung erleichtert die Kenntnis solcher spannungsarmen Gebiete die Arbeiten mit satellitengestützten Messmethoden, insbesondere mit Positionierungsdiensten wie zum Beispiel swipos.",
+      "service": "WMS",
+      "score": 75
+    },
+    {
+      "anbieter": "Bund",
+      "datensatz": "Höhenfixpunkte HFP2",
+      "zusammenfassung": "Vermessungspunkte bilden die Grundlage aller Daten mit Raumbezug. Diese Fixpunkte (Lagefixpunkte (LFP) und die Höhenfixpunkte (HFP)) werden für alle vermessungstechnischen Arbeiten genutzt, die eine zuverlässige und präzise Bestimmung erfordern. Unter einem Höhenfixpunkt versteht man einen dauerhaft mit einem Bolzen gekennzeichneten Punkt mit bekannter Höhe. Die Höhenfixpunkte der Kategorien 2 (HFP2) dienen zur Verdichtung des Punktnetzes und bilden die Grundlage der amtlichen Vermessung. Die Kantone sind zuständig für die Fixpunkte der Kategorie 2. Die Daten basieren auf dem Modell Fixpunkt-Daten service 2.0 der KGK (Datenmodell KGKCGC_FPDS2_V1_1, Version 1.1).",
+      "service": "WMS",
+      "score": 75
+    },
+    {
+      "anbieter": "Bund",
+      "datensatz": "Lagefixpunkte LFP2",
+      "zusammenfassung": "Vermessungspunkte bilden die Grundlage aller Daten mit Raumbezug. Diese Fixpunkte (Lagefixpunkte (LFP) und die Höhenfixpunkte (HFP)) werden für alle vermessungstechnischen Arbeiten genutzt, die eine zuverlässige und präzise Bestimmung erfordern. Unter einem Lagefixpunkt versteht man einen dauerhaft mit einem Stein oder einem Bolzen (zum Teil unter Schacht) versicherten Punkt mit bekannten Koordinaten und eventuell bekannter Höhe. Die Lagefixpunkte der Kategorien 2 (LFP2) dienen zur Verdichtung des Punktnetzes und bilden die Grundlage der amtlichen Vermessung. Die Kantone sind zuständig für die Fixpunkte der Kategorie 2. Die Daten basieren auf dem Modell Fixpunkt-Daten service 2.0 der KGK (Datenmodell KGKCGC_FPDS2_V1_1, Version 1.1).",
+      "service": "WMS",
+      "score": 75
+    },
+    {
+      "anbieter": "Bund",
+      "datensatz": "Biogasanlagen",
+      "zusammenfassung": "In Biogasanlagen wird aus organischem Material mittels Vergärung Gas erzeugt. Das dabei entstehende Gasgemisch besteht zum überwiegenden Teil aus energiereichem Methan (CH4) und aus Kohlendioxid (CO2). Biogas kann zur Erzeugung von Strom und Wärme sowie als Treibstoff genutzt werden. Die Schweiz zählt mehr als 100 Biogasanlagen. Bei der inländischen Biogasproduktion werden ausschliesslich Abfälle und Speisereste aus Haushalten, der Nahrungsmittelindustrie und der Landwirtschaft verwertet. Biogas ist damit nicht nur ein erneuerbarer und CO2-neutraler, sondern auch ein nachhaltiger Energieträger. Mit Biogas kann direkt in einem Blockheizkraftwerk (BHKW) Strom und Wärme erzeugt werden. Es kann aber auch zu Biomethan aufbereitet und anschliessend ins Erdgasnetz eingespeist werden. Es steht dann wiederum für die Strom- und Wärmeproduktion oder als Treibstoff zur Verfügung. Die Geodaten über Biogasanlagen geben Auskunft über den derzeitigen Stand solcher Energieerzeugungsanlagen in der Schweiz. Derzeit beruhen die Daten nur auf der Liste der KEV-Bezüger. Das langfristige Ziel besteht darin, alle in der Schweiz in Betrieb stehenden Biogasanlagen erfassen zu können - ob sie nun Elektrizität oder Wärme vor Ort produzieren oder ob sie Biomethan ins Erdgasnetz einspeisen. Die Daten sind zur Information der breiten Öffentlichkeit bestimmt und stellen keine amtlichen oder verbindlichen Angaben dar.",
+      "service": "WMS",
+      "score": 75
+    },
+    {
+      "anbieter": "Zürich",
+      "datensatz": "Gewässer Öffentliche und private Stehgewässer (45.10)",
+      "zusammenfassung": "Umfasst alle öffentlichen und ggf. privaten Stehgewässer (Seen und Weiher) im Hauptschluss öffentlicher Fliessgewässer sowie isolierte Stehgewässer ohne Zu-/ Abfluss über 500 m2. Wasserrechtsweiher werden in einem separaten Datensatz geführt (GIS-ZH Nr. 51.2). Die Feststellung der Hoheitsrechte (öffentlich vs privat) ist in den meisten Fällen noch pendent und wird laufend aktualisiert. Die Uferlinien der 10 grössten Seen entsprechen im Flächendatensatz mit Ausnahme des Zürichsees WB_SEEUFERLINIEN_L_M, die Umrisse der restlichen Stehgewässer basieren auf der amtlichen Vermessung. Die Zürichseefläche wurde zwischen 2011 und 2017 im Auftrag des AWEL durch die amtliche Vermessung rechtskräftig erhoben. Dabei lag die Bestimmung der Seefläche im Bereich von durch Haben, Bootshäusern etc. überdeckten Flächen besonders im Fokus. Für die Gewässerraumausscheidung wurden Bootshäuser, Haben und Buchten, die nicht dem generellen Trend der Uferlinie folgen, im Liniendatensatz entfernt bzw. generalisiert (siehe Datengrundlage/Dokumentation). ",
+      "service": "WFS",
+      "score": 75
+    },
+    {
+      "anbieter": "Geodienste",
+      "datensatz": "geodienste.ch WMS AV: Standard",
+      "zusammenfassung": "Die amtliche Vermessung – ein nationales Produkt – liefert geometrische Daten zum Grundeigentum und ist die Grundlage für viele weitere geografische Informationen und Anwendungen in Wirtschaft, Verwaltung und Privatleben. Die Daten basieren auf dem MGDM DM.01-AV-CH (ID 51.1 - 64.1). Der WMS «AV: Standard (schwarz/weiss)» basiert auf der «Empfehlung für die Realisierung des AV-WMS». Der Dienst bezweckt eine gesamtschweizerische Lösung für die Visualisierung der Daten der Amtlichen Vermessung als WMS und WFS. Die Darstellung der Daten ist für einen Massstab bis 1:25’000 optimiert.",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Geodienste",
+      "datensatz": "geodienste.ch WMS AV: Situationsplan",
+      "zusammenfassung": "Die amtliche Vermessung – ein nationales Produkt – liefert geometrische Daten zum Grundeigentum und ist die Grundlage für viele weitere geografische Informationen und Anwendungen in Wirtschaft, Verwaltung und Privatleben. Die Daten basieren auf dem MGDM DM.01-AV-CH (ID 51.1 - 64.1). Der WMS «AV: Situationsplan» basiert auf der Weisung «Darstellung des Planes für das Grundbuch». Die Darstellung ist konform mit den folgenden Standard-Darstellungsmassstäbe des Planes für das Grundbuch auf Papier: 1:200 1:500 1:1’000 und 1:2’000. Hinweis: Die Ausgabe von Plänen für das Grundbuch ist den Organen der amtlichen Vermessung vorbehalten.",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Geodienste",
+      "datensatz": "geodienste.ch WMS AV: Standard (farbig)",
+      "zusammenfassung": "Die amtliche Vermessung – ein nationales Produkt – liefert geometrische Daten zum Grundeigentum und ist die Grundlage für viele weitere geografische Informationen und Anwendungen in Wirtschaft, Verwaltung und Privatleben. Die Daten basieren auf dem MGDM DM.01-AV-CH (ID 51.1 - 64.1). Der WMS «AV: Standard (farbig)» basiert auf der «Empfehlung für die Realisierung des AV-WMS». Der Dienst bezweckt eine gesamtschweizerische Lösung für die Visualisierung der Daten der Amtlichen Vermessung als WMS und WFS. Die Darstellung der Daten ist für einen Massstab bis 1:25’000 optimiert.",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "AppenzellInnerrhoden",
+      "datensatz": "Durchgangsleitungen aus AV Gde",
+      "zusammenfassung": "Diese Karte stellt bedeutende Durchgangsleitungen dar, welche aus den Daten der amtlichen Vermessung stammen. Darin ersichtlich sind Durchgangsleitungen aus Gas, Öl und Elektrizität (wie Hochspannungsfreileitungen).",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "AppenzellInnerrhoden",
+      "datensatz": "Gebäudeadressen, geocodiert Kt",
+      "zusammenfassung": "Diese Karte umfasst Gebäudeadressen aus der amtlichen Vermessung.",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "AppenzellInnerrhoden",
+      "datensatz": "Landwirtschaftliche Zonengrenzen Kt",
+      "zusammenfassung": "Karte mit den acht landwirtschaftlichen Produktionszonen und dem Sömmerungsgebiet, gemäss Definition des Bundesamtes für Landwirtschaft (BLW). Die landwirtschaftlichen Zonengrenzen wurden auf der amtlichen Vermessung digitalisiert.",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "AppenzellInnerrhoden",
+      "datensatz": "Orthofoto mit AV weiss",
+      "zusammenfassung": "Das Orthofoto zeigt die Landschaft in einer Luftaufnahme inkl. der amtlichen Vermessung in Weiss.",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "AppenzellInnerrhoden",
+      "datensatz": "Schwarzplan Gde",
+      "zusammenfassung": "Der Schwarzplan zeigt ausschliesslich die Gebäude der amtlichen Vermessung und visualisiert das Verhältnis zwischen bebauter Fläche und unbebauter Fläche.",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "AppenzellInnerrhoden",
+      "datensatz": "Übersichtsplan 1:10000 (ÜP10) Kt",
+      "zusammenfassung": "Ehemaliger kantonaler Übersichtsplan 1:10‘000 (ÜP10) des Kantons St.Gallen und angrenzender Gebiete. Die Karte zeigt einen Scan des in insgesamt 69 einzelnen Kartenblättern erstellten ÜP10. Die Nachführung ist bis Ende 2006 erfolgt, anschliessend Ablösung durch den aus der amtlichen Vermessung erzeugten Übersichtsplan 1:5‘000 (ÜP5).",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "AppenzellInnerrhoden",
+      "datensatz": "Übersichtsplan Gde",
+      "zusammenfassung": "Diese Karte zeigt den kommunalen Übersichtsplan (schwarz-weiss) sowie die Landeskarten von swisstopo 1:25-000 bis 1:1-000-000 (farbig) an. Der Übersichtsplan ist eine generalisierte Darstellung der Daten aus der amtlichen Vermessung.",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "AppenzellInnerrhoden",
+      "datensatz": "Übersichtsplan grau Gde",
+      "zusammenfassung": "Diese Karte zeigt den kommunalen Übersichtsplan sowie die Landeskarten von swisstopo 1:25-000 bis 1:1-000-000 in grauer Darstellung an. Der Übersichtsplan ist eine generalisierte Darstellung der Daten aus der amtlichen Vermessung.",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "AppenzellAusserrhoden",
+      "datensatz": "Gebäudeadressen, geocodiert Kt",
+      "zusammenfassung": "Diese Karte umfasst Gebäudeadressen aus der amtlichen Vermessung.",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "AppenzellAusserrhoden",
+      "datensatz": "Landwirtschaftliche Zonengrenzen Kt",
+      "zusammenfassung": "Karte mit den acht landwirtschaftlichen Produktionszonen und dem Sömmerungsgebiet, gemäss Definition des Bundesamtes für Landwirtschaft (BLW). Die landwirtschaftlichen Zonengrenzen wurden auf der amtlichen Vermessung digitalisiert.",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "AppenzellAusserrhoden",
+      "datensatz": "Schwarzplan Gde",
+      "zusammenfassung": "Der Schwarzplan zeigt ausschliesslich die Gebäude der amtlichen Vermessung und visualisiert das Verhältnis zwischen bebauter Fläche und unbebauter Fläche.",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "AppenzellAusserrhoden",
+      "datensatz": "Übersichtsplan 1:10000 (ÜP10) Kt",
+      "zusammenfassung": "Ehemaliger kantonaler Übersichtsplan 1:10‘000 (ÜP10) des Kantons St.Gallen und angrenzender Gebiete. Die Karte zeigt einen Scan des in insgesamt 69 einzelnen Kartenblättern erstellten ÜP10. Die Nachführung ist bis Ende 2006 erfolgt, anschliessend Ablösung durch den aus der amtlichen Vermessung erzeugten Übersichtsplan 1:5‘000 (ÜP5).",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Schaffhausen",
+      "datensatz": "Forst Wald",
+      "zusammenfassung": "Hinweis auf Waldareal basierend auf der amtlichen Vermessung. Die Waldgrenzen werden im Rahmen von Projekten vom Kantonsforstamt überprüft und vom Amt für Geoinformation nachgeführt, sind jedoch in der Regel nicht rechtsverbindlich.",
+      "service": "WMS",
+      "score": 75
+    },
+    {
+      "anbieter": "Bund",
+      "datensatz": "LV95 Transformationsgenauigkeit",
+      "zusammenfassung": "Aus der kombinierten Genauigkeitskarte kann abgeleitet werden, wie genau in LV03 (mit realtime-Fineltra) oder LV95 in Bezug zu den Referenzdaten der Landes- und amtlichen Vermessung (Bezugsrahmen) mit GNSS gemessen werden kann, z.B. mit dem Positionierungsdienst swipos. So kann beispielsweise in den spannungsarmen Gebieten auf eine sogenannte lokale Einpassung verzichtet werden. Weitere Informationen zur Anwendung der kombinierten Genauigkeitskarte entnehmen Sie bitte dem -Link zu Detailbeschreibung- weiter unten.",
+      "service": "WMS",
+      "score": 75
+    },
+    {
+      "anbieter": "Bund",
+      "datensatz": "Windenergieanlagen",
+      "zusammenfassung": "Windenergieanlagen nutzen die kinetische Energie der anströmenden Luft zur Rotation der Flügel. Die auf diese Weise erzeugte mechanische Energie wird von einem Generator in elektrische Energie umgewandelt.Die erste Windenergieanlage der Schweiz wurde 1986 beim Soolhof (Langenbruck, BL) mit einer Leistung von 28 kW in Betrieb genommen. 2013 gibt es insgesamt 34 Windenergieanlagen, die rund 85 Gigawattstunden (GWh) Windstrom produzieren. Der grösste Windpark befindet sich auf dem Mont Crosin im Berner Jura bei St. Imier: Hier stehen 16 Windturbinen mit einer Gesamtleistung von 23,6 MW. Weitere Grossanlagen stehen u.a. im Rhonetal (VS), bei Entlebuch (LU) und auf dem Gütsch ob Andermatt (UR). In der Schweiz kann sich die Windenergie noch stark entwickeln. So sollen Windenergieanlagen bis zum Jahr 2020 rund 600 GWh und bis 2050 etwa 4‘000 GWh Strom pro Jahr produzieren. Geeignete Standorte befinden sich auf den Jurahöhen, aber auch in den Alpen und Voralpen und im westlichen Mittelland. Die Geofachdaten «Windenergieanlagen» dokumentieren den aktuellen Bestand der Windenergieanlagen der Schweiz. Sämtliche Informationen basieren auf den Auskünften der Anlagenbetreibenden. Die Angaben dienen als Informationsmaterial für die Öffentlichkeit und stellen keine amtliche Auskunft oder rechtsverbindliche Aussage dar.",
+      "service": "WMTS",
+      "score": 75
+    },
+    {
+      "anbieter": "Bund",
+      "datensatz": "Kehrichtverbrennungsanlagen",
+      "zusammenfassung": "Die Kehrichtverbrennung ist die Verbrennung der atmosphärisch brennbaren Anteile von Abfall zum Zwecke der Volumenreduzierung des Abfalls unter Nutzung der enthaltenen Energie.Der schweizerische KVA-Park umfasst im Jahr 2017 30 Anlagen mit Kapazitäten zwischen 30‘000 und 230‘000 Jahrestonnen. Die Gesamtmenge an brennbaren Abfällen aus der Schweiz und dem Ausland, die in KVA thermisch verwertet werden, beläuft sich auf ca. 4 Mio. Tonnen. Die bei der Verbrennung anfallende Wärme wird für die Produktion von Strom oder für den Betrieb von Fernwärmenetzen bzw. für Prozesswärme für Industrieanlagen eingesetzt. Im Jahr 2017 produzierten die 30 KVA eine bisherige Rekordmenge an Energie von gesamthaft 4-036 Gigawattstunden (GWh) Wärme und 2338 GWh Strom. Sie tragen damit rund 2.5 Prozent zur Deckung des schweizerischen Gesamtenergiebedarfs bzw. knapp 4 Prozent zur schweizerischen Stromproduktion bei. Die Geofachdaten KVA dokumentieren den aktuellen Stand verwerteter Abfallmengen und der nach aussen gelieferten Energiemengen. Sämtliche Informationen basieren auf den Auskünften der Anlagenbetreibenden. Die Angaben dienen als Informationsmaterial für die Öffentlichkeit und stellen keine amtliche Auskunft oder rechtsverbindliche Aussage dar.",
+      "service": "WMTS",
+      "score": 75
+    },
+    {
+      "anbieter": "Bund",
+      "datensatz": "PLZ und Ortschaften",
+      "zusammenfassung": "Mit Artikel 24 der Verordnung über die geografischen Namen (GeoNV) wurde das Bundesamt für Landestopografie swisstopo beauftragt, das neue amtliche Ortschaftenverzeichnis mit Postleitzahl und Perimeter zu erstellen, zu verwalten und zu veröffentlichen. Dieser Datensatz wird zentral bei swisstopo geführt und entspricht mit Ausnahme des entfernten Identifikators `IDENT PLZ, Zusatzziffern` in der Tabelle `PLZ` dem TOPIC `PLZOrtschaft` der amtlichen Vermessung. Der Datensatz ist flächendeckend über die ganze Schweiz und kann kostenlos bezogen werden (Datensatz wird monatlich nachgeführt).",
+      "service": "WMS",
+      "score": 75
+    },
+    {
+      "anbieter": "Bund",
+      "datensatz": "Kehrichtverbrennungsanlagen",
+      "zusammenfassung": "Die Kehrichtverbrennung ist die Verbrennung der atmosphärisch brennbaren Anteile von Abfall zum Zwecke der Volumenreduzierung des Abfalls unter Nutzung der enthaltenen Energie.Der schweizerische KVA-Park umfasst im Jahr 2017 30 Anlagen mit Kapazitäten zwischen 30`000 und 230`000 Jahrestonnen. Die Gesamtmenge an brennbaren Abfällen aus der Schweiz und dem Ausland, die in KVA thermisch verwertet werden, beläuft sich auf ca. 4 Mio. Tonnen. Die bei der Verbrennung anfallende Wärme wird für die Produktion von Strom oder für den Betrieb von Fernwärmenetzen bzw. für Prozesswärme für Industrieanlagen eingesetzt. Im Jahr 2017 produzierten die 30 KVA eine bisherige Rekordmenge an Energie von gesamthaft 4`036 Gigawattstunden (GWh) Wärme und 2338 GWh Strom. Sie tragen damit rund 2.5 Prozent zur Deckung des schweizerischen Gesamtenergiebedarfs bzw. knapp 4 Prozent zur schweizerischen Stromproduktion bei. Die Geofachdaten KVA dokumentieren den aktuellen Stand verwerteter Abfallmengen und der nach aussen gelieferten Energiemengen. Sämtliche Informationen basieren auf den Auskünften der Anlagenbetreibenden. Die Angaben dienen als Informationsmaterial für die Öffentlichkeit und stellen keine amtliche Auskunft oder rechtsverbindliche Aussage dar.",
+      "service": "WMS",
+      "score": 75
+    },
+    {
+      "anbieter": "Bund",
+      "datensatz": "Thermische Netze",
+      "zusammenfassung": "Unter Thermischen Netzen - auch Fernwärme-, Nahwärme- oder Fernkältenetze - versteht man eine Infrastruktur, welche mehrere Gebäude auf verschiedenen Grundstücken mit thermischer Energie versorgt. Es ist eine leitungsgebundene Wärmeversorgung von Kunden über Wasser oder Dampf. Neben Fernwärmenetzen existieren auch Fernkältenetze - deshalb verwendet man heute den allgemeineren Begriff Thermische Netze. Die Energieversorgung von Thermischen Netzen ist dabei nicht zwangsläufig erneuerbar, aber sie zeichnet sich oft - so zum Beispiel bei Kehrichtverbrennungsanlagen - durch eine geringe Bilanz an CO2-Emissionen aus. So ermöglicht Fernwärme z.B. die Nutzung von Abwärme oder den Einsatz von erneuerbaren Energien und gewinnt deshalb zunehmend an Bedeutung. Fernwärme beschreibt eine leitungsgebundene Wärmeversorgung von Kunden über Wasser oder Dampf mit zentral erzeugter Wärme und deckt einen breiten Leistungsbereich mit Anschlussleistungen von weniger als 100 kW bis zu über 1 GW ab. Eine Wärmeverteilung einzig über eine Verteilergruppe gilt nicht als Fernwärme. Die Geofachdaten `Thermische Netze` dokumentieren den aktuellen Bestand der Fernwärmenetze in der Schweiz. Sämtliche Informationen basieren auf den Auskünften der Anlagenbetreibenden. Die Angaben dienen als Informationsmaterial für die Öffentlichkeit und stellen keine amtliche Auskunft oder rechtsverbindliche Aussage dar.",
+      "service": "WMS",
+      "score": 75
+    },
+    {
+      "anbieter": "AppenzellInnerrhoden",
+      "datensatz": "Dufour Karte",
+      "zusammenfassung": "Geodaten des Bundesamtes für Energie, als WMS der swisstopo bezogen. Die Topographische Karte der Schweiz 1:100 000 (Dufourkarte) ist das erste amtliche Kartenwerk, das die Schweiz landesweit abdeckt. Sie wurde zwischen 1845 und 1865 publiziert und entstand damit parallel zum modernen Bundesstaat. Vorgeschichte: Nach ersten Ansätzen in der Helvetik (1798-1803) wurden ab 1809 erste Vermessungen auf eidgenössischer Ebene durch die Offiziere des Quartiermeisterstabs vorgenommen. Doch die Arbeiten kamen erst richtig vom Fleck, als Guillaume-Henri Dufour (1787-1875) 1832 zum Oberstquartiermeister der Eidgenossenschaft (Generalstabschef) ernannt wurde. Zu seinen Aufgaben gehörte auch die Erstellung der Topographischen Karte der Schweiz 1:100 000.",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "AppenzellAusserrhoden",
+      "datensatz": "Dufour Karte",
+      "zusammenfassung": "Geodaten des Bundesamtes für Energie, als WMS der swisstopo bezogen. Die Topographische Karte der Schweiz 1:100 000 (Dufourkarte) ist das erste amtliche Kartenwerk, das die Schweiz landesweit abdeckt. Sie wurde zwischen 1845 und 1865 publiziert und entstand damit parallel zum modernen Bundesstaat. Vorgeschichte: Nach ersten Ansätzen in der Helvetik (1798-1803) wurden ab 1809 erste Vermessungen auf eidgenössischer Ebene durch die Offiziere des Quartiermeisterstabs vorgenommen. Doch die Arbeiten kamen erst richtig vom Fleck, als Guillaume-Henri Dufour (1787-1875) 1832 zum Oberstquartiermeister der Eidgenossenschaft (Generalstabschef) ernannt wurde. Zu seinen Aufgaben gehörte auch die Erstellung der Topographischen Karte der Schweiz 1:100 000.",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Bund",
+      "datensatz": "Einteilung Dufourkarte Raster",
+      "zusammenfassung": "Die Topographische Karte der Schweiz 1:100 000 (Dufourkarte) ist das erste amtliche Kartenwerk, das die Schweiz landesweit abdeckt. Sie wurde zwischen 1845 und 1865 publiziert und bis 1939 nachgeführt. Der Datensatz `Blatteinteilung der Dufourkarte` zeigt den Perimeter, die Nummer und den Namen jedes Kartenblattes. Die Blätter mit Ausbuchtungen auf den gedruckten Ausgaben werden mit einer etwas grösseren Fläche als bei den Standardblättern dargestellt. Das Titelblatt und die Karten Fort de l`Ecluse, Rheineck und Bergamo werden zusammen mit einer Nachbarkarte dargestellt.",
+      "service": "WMS",
+      "score": 75
+    },
+    {
+      "anbieter": "Bund",
+      "datensatz": "Amtliches Strassenverzeichnis",
+      "zusammenfassung": "Offizieller Datensatz für `Amtliches Verzeichnis der Strassen`, ID196, gemäss Katalog der Geobasisdaten nach Bundesrecht. Das amtliche Verzeichnis der Strassen beinhaltet sämtliche Strassennamen welche im Eidgenössischen Gebäude- und Wohnungsregister (GWR) offiziell deklariert werden. Die Verantwortlichkeit für die Vollständigkeit der Namen im amtlichen Verzeichnis der Strassen erfolgt nach kantonalen Vorschriften.",
+      "service": "WMS",
+      "score": 75
+    },
+    {
+      "anbieter": "Bund",
+      "datensatz": "Windenergieanlagen",
+      "zusammenfassung": "Windenergieanlagen nutzen die kinetische Energie der anströmenden Luft zur Rotation der Flügel. Die auf diese Weise erzeugte mechanische Energie wird von einem Generator in elektrische Energie umgewandelt.Die erste Windenergieanlage der Schweiz wurde 1986 beim Soolhof (Langenbruck, BL) mit einer Leistung von 28 kW in Betrieb genommen. 2013 gibt es insgesamt 34 Windenergieanlagen, die rund 85 Gigawattstunden (GWh) Windstrom produzieren. Der grösste Windpark befindet sich auf dem Mont Crosin im Berner Jura bei St. Imier: Hier stehen 16 Windturbinen mit einer Gesamtleistung von 23,6 MW. Weitere Grossanlagen stehen u.a. im Rhonetal (VS), bei Entlebuch (LU) und auf dem Gütsch ob Andermatt (UR). In der Schweiz kann sich die Windenergie noch stark entwickeln. So sollen Windenergieanlagen bis zum Jahr 2020 rund 600 GWh und bis 2050 etwa 4`000 GWh Strom pro Jahr produzieren. Geeignete Standorte befinden sich auf den Jurahöhen, aber auch in den Alpen und Voralpen und im westlichen Mittelland. Die Geofachdaten `Windenergieanlagen` dokumentieren den aktuellen Bestand der Windenergieanlagen der Schweiz. Sämtliche Informationen basieren auf den Auskünften der Anlagenbetreibenden. Die Angaben dienen als Informationsmaterial für die Öffentlichkeit und stellen keine amtliche Auskunft oder rechtsverbindliche Aussage dar.",
+      "service": "WMS",
+      "score": 75
+    },
+    {
+      "anbieter": "Bund",
+      "datensatz": "Wärme-/Kältenachfrage Industrie",
+      "zusammenfassung": "Die Wärme- und Kältenachfrage ist für die strategische Planung von thermischen Netzen von zentraler Bedeutung. Der Bau eines thermischen Netzes in einem Gebiet lohnt sich erst bei genügendem Wärme- und/oder Kälteabsatz. .Die Wärmenachfrage dient in der strategischen Planung zur Identifizierung von grösseren zusammenhängenden Gebieten, die sich für ein thermisches Netz eignen können. Ab einer Wärmedichte von 700 MWh/a pro Hektare gilt ein Gebiet als geeignet. Neben der Wärmedichte ist auch das erforderliche Temperaturniveau für die Wärmeversorgung wichtig. In der Industrie und Gewerbe wird zum Teil Prozesswärme auf sehr hohem Niveau (z.T. 1-000 °C und mehr) benötigt, die mit einem thermischen Netz nicht bereitgestellt werden kann. Deshalb wurde die Wärmenachfrage von Industrie und Gewerbe in einen eigenen Datensatz erfasst. Die Datengrundlage bildet die Statistik der Unternehmensstruktur (STATENT) des BFS aus dem Jahr 2013, ergänzt mit Zahlen aus dem jährlichen Bericht «Energieverbrauch in der Industrie und im Dienstleistungssektor» des BFE. Die Wärmenachfrage wird als Wärmedichte im Hektarraster dargestellt. Die Wärmedichte ist anhand einer Farbskala ersichtlich. Die Angaben dienen als Informationsmaterial für die Öffentlichkeit und stellen keine amtliche Auskunft oder rechtsverbindliche Aussage dar.",
+      "service": "WMTS",
+      "score": 75
+    },
+    {
+      "anbieter": "Bund",
+      "datensatz": "Wärme-/Kältenachfrage Industrie",
+      "zusammenfassung": "Die Wärme- und Kältenachfrage ist für die strategische Planung von thermischen Netzen von zentraler Bedeutung. Der Bau eines thermischen Netzes in einem Gebiet lohnt sich erst bei genügendem Wärme- und/oder Kälteabsatz. .Die Wärmenachfrage dient in der strategischen Planung zur Identifizierung von grösseren zusammenhängenden Gebieten, die sich für ein thermisches Netz eignen können. Ab einer Wärmedichte von 700 MWh/a pro Hektare gilt ein Gebiet als geeignet. Neben der Wärmedichte ist auch das erforderliche Temperaturniveau für die Wärmeversorgung wichtig. In der Industrie und Gewerbe wird zum Teil Prozesswärme auf sehr hohem Niveau (z.T. 1`000 °C und mehr) benötigt, die mit einem thermischen Netz nicht bereitgestellt werden kann. Deshalb wurde die Wärmenachfrage von Industrie und Gewerbe in einen eigenen Datensatz erfasst. Die Datengrundlage bildet die Statistik der Unternehmensstruktur (STATENT) des BFS aus dem Jahr 2013, ergänzt mit Zahlen aus dem jährlichen Bericht `Energieverbrauch in der Industrie und im Dienstleistungssektor` des BFE. Die Wärmenachfrage wird als Wärmedichte im Hektarraster dargestellt. Die Wärmedichte ist anhand einer Farbskala ersichtlich. Die Angaben dienen als Informationsmaterial für die Öffentlichkeit und stellen keine amtliche Auskunft oder rechtsverbindliche Aussage dar.",
+      "service": "WMS",
+      "score": 75
+    },
+    {
+      "anbieter": "AppenzellInnerrhoden",
+      "datensatz": "Postleitzahlen und Ortschaften CH",
+      "zusammenfassung": "Geodaten der Geodäsie und Eidgenössischen Vermessungsdirektion, als WMS der swisstopo bezogen. Amtliches Ortschaftenverzeichnis mit Postleitzahl und Perimeter. Mit Artikel 24 der Verordnung über die geografischen Namen (GeoNV) wurde das Bundesamt für Landestopografie swisstopo beauftragt, das neue amtliche Ortschaftenverzeichnis mit Postleitzahl und Perimeter zu erstellen, zu verwalten und zu veröffentlichen. Dieser Datensatz wird zentral bei swisstopo geführt und entspricht mit Ausnahme des entfernten Identifikators «IDENT PLZ, Zusatzziffern» in der Tabelle «PLZ» dem TOPIC «PLZOrtschaft» der amtlichen Vermessung. Der Datensatz ist flächendeckend über die ganze Schweiz und kann kostenlos bezogen werden (Datensatz wird monatlich nachgeführt).",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "AppenzellInnerrhoden",
+      "datensatz": "Windenergieanlagen CH",
+      "zusammenfassung": "Geodaten des Bundesamtes für Energie, als WMS der swisstopo bezogen. Windenergieanlagen nutzen die kinetische Energie der anströmenden Luft zur Rotation der Flügel. Die auf diese Weise erzeugte mechanische Energie wird von einem Generator in elektrische Energie umgewandelt.Die erste Windenergieanlage der Schweiz wurde 1986 beim Soolhof (Langenbruck, BL) mit einer Leistung von 28 kW in Betrieb genommen. 2013 gibt es insgesamt 34 Windenergieanlagen, die rund 85 Gigawattstunden (GWh) Windstrom produzieren. Der grösste Windpark befindet sich auf dem Mont Crosin im Berner Jura bei St. Imier: Hier stehen 16 Windturbinen mit einer Gesamtleistung von 23,6 MW. Weitere Grossanlagen stehen u.a. im Rhonetal (VS), bei Entlebuch (LU) und auf dem Gütsch ob Andermatt (UR). In der Schweiz kann sich die Windenergie noch stark entwickeln. So sollen Windenergieanlagen bis zum Jahr 2020 rund 600 GWh und bis 2050 etwa 4‘000 GWh Strom pro Jahr produzieren. Geeignete Standorte befinden sich auf den Jurahöhen, aber auch in den Alpen und Voralpen und im westlichen Mittelland. Die Geofachdaten «Windenergieanlagen» dokumentieren den aktuellen Bestand der Windenergieanlagen der Schweiz. Sämtliche Informationen basieren auf den Auskünften der Anlagenbetreibenden. Die Angaben dienen als Informationsmaterial für die Öffentlichkeit und stellen keine amtliche Auskunft oder rechtsverbindliche Aussage dar.",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "AppenzellAusserrhoden",
+      "datensatz": "Postleitzahlen und Ortschaften CH",
+      "zusammenfassung": "Geodaten der Geodäsie und Eidgenössischen Vermessungsdirektion, als WMS der swisstopo bezogen. Amtliches Ortschaftenverzeichnis mit Postleitzahl und Perimeter. Mit Artikel 24 der Verordnung über die geografischen Namen (GeoNV) wurde das Bundesamt für Landestopografie swisstopo beauftragt, das neue amtliche Ortschaftenverzeichnis mit Postleitzahl und Perimeter zu erstellen, zu verwalten und zu veröffentlichen. Dieser Datensatz wird zentral bei swisstopo geführt und entspricht mit Ausnahme des entfernten Identifikators «IDENT PLZ, Zusatzziffern» in der Tabelle «PLZ» dem TOPIC «PLZOrtschaft» der amtlichen Vermessung. Der Datensatz ist flächendeckend über die ganze Schweiz und kann kostenlos bezogen werden (Datensatz wird monatlich nachgeführt).",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "AppenzellAusserrhoden",
+      "datensatz": "Windenergieanlagen CH",
+      "zusammenfassung": "Geodaten des Bundesamtes für Energie, als WMS der swisstopo bezogen. Windenergieanlagen nutzen die kinetische Energie der anströmenden Luft zur Rotation der Flügel. Die auf diese Weise erzeugte mechanische Energie wird von einem Generator in elektrische Energie umgewandelt.Die erste Windenergieanlage der Schweiz wurde 1986 beim Soolhof (Langenbruck, BL) mit einer Leistung von 28 kW in Betrieb genommen. 2013 gibt es insgesamt 34 Windenergieanlagen, die rund 85 Gigawattstunden (GWh) Windstrom produzieren. Der grösste Windpark befindet sich auf dem Mont Crosin im Berner Jura bei St. Imier: Hier stehen 16 Windturbinen mit einer Gesamtleistung von 23,6 MW. Weitere Grossanlagen stehen u.a. im Rhonetal (VS), bei Entlebuch (LU) und auf dem Gütsch ob Andermatt (UR). In der Schweiz kann sich die Windenergie noch stark entwickeln. So sollen Windenergieanlagen bis zum Jahr 2020 rund 600 GWh und bis 2050 etwa 4‘000 GWh Strom pro Jahr produzieren. Geeignete Standorte befinden sich auf den Jurahöhen, aber auch in den Alpen und Voralpen und im westlichen Mittelland. Die Geofachdaten «Windenergieanlagen» dokumentieren den aktuellen Bestand der Windenergieanlagen der Schweiz. Sämtliche Informationen basieren auf den Auskünften der Anlagenbetreibenden. Die Angaben dienen als Informationsmaterial für die Öffentlichkeit und stellen keine amtliche Auskunft oder rechtsverbindliche Aussage dar.",
+      "service": "WMS",
+      "score": 50
+    },
+    {
+      "anbieter": "Bund",
+      "datensatz": "Wärme-/Kältenachfrage Wohnen und DL",
+      "zusammenfassung": "Die Wärme- und Kältenachfrage ist für die strategische Planung von thermischen Netzen von zentraler Bedeutung. Der Bau eines thermischen Netzes in einem Gebiet lohnt sich erst bei genügendem Wärme- und/oder Kälteabsatz. Die Wärmenachfrage dient in der strategischen Planung zur Identifizierung von grösseren zusammenhängenden Gebieten, die sich für ein thermisches Netz eignen können. Ab einer Wärmedichte von 700 MWh/a pro Hektare gilt ein Gebiet als geeignet. Neben der Wärmedichte ist auch das erforderliche Temperaturniveau für die Wärmeversorgung wichtig. In der Industrie und dem Gewerbe wird zum Teil Prozesswärme auf sehr hohem Niveau (z.T. 1-000 °C und mehr) benötigt, die mit einem thermischen Netz nicht bereitgestellt werden kann. Deshalb wurde die Wärmenachfrage von Industrie in einem eigenen Datensatz erfasst. Die Wärmenachfrage von Wohn- und Dienstleistungsgebäuden ist für thermische Netze am interessantesten, da die allermeisten Gebäude dieser Kategorien mit tiefen Temperaturen von ca. 12°C bis max. 90°C versorgt werden können. Die Datengrundlage bildet die Gebäude- und Wohnungsstatistik (GWS) aus dem Jahr 2014 und die Statistik der Unternehmensstruktur (STATENT) des BFS aus dem Jahr 2013, ergänzt mit Zahlen aus dem jährlichen Bericht «Energieverbrauch in der Industrie und im Dienstleistungssektor» des BFE. Die Wärmenachfrage wird als Wärmedichte im Hektarraster dargestellt. Die Wärmedichte ist anhand einer Farbskala ersichtlich. Die Angaben dienen als Informationsmaterial für die Öffentlichkeit und stellen keine amtliche Auskunft oder rechtsverbindliche Aussage dar.",
+      "service": "WMTS",
+      "score": 75
+    },
+    {
+      "anbieter": "Bund",
+      "datensatz": "Wärme-/Kältenachfrage Wohnen und DL",
+      "zusammenfassung": "Die Wärme- und Kältenachfrage ist für die strategische Planung von thermischen Netzen von zentraler Bedeutung. Der Bau eines thermischen Netzes in einem Gebiet lohnt sich erst bei genügendem Wärme- und/oder Kälteabsatz. Die Wärmenachfrage dient in der strategischen Planung zur Identifizierung von grösseren zusammenhängenden Gebieten, die sich für ein thermisches Netz eignen können. Ab einer Wärmedichte von 700 MWh/a pro Hektare gilt ein Gebiet als geeignet. Neben der Wärmedichte ist auch das erforderliche Temperaturniveau für die Wärmeversorgung wichtig. In der Industrie und dem Gewerbe wird zum Teil Prozesswärme auf sehr hohem Niveau (z.T. 1`000 °C und mehr) benötigt, die mit einem thermischen Netz nicht bereitgestellt werden kann. Deshalb wurde die Wärmenachfrage von Industrie in einem eigenen Datensatz erfasst. Die Wärmenachfrage von Wohn- und Dienstleistungsgebäuden ist für thermische Netze am interessantesten, da die allermeisten Gebäude dieser Kategorien mit tiefen Temperaturen von ca. 12°C bis max. 90°C versorgt werden können. Die Datengrundlage bildet die Gebäude- und Wohnungsstatistik (GWS) aus dem Jahr 2014 und die Statistik der Unternehmensstruktur (STATENT) des BFS aus dem Jahr 2013, ergänzt mit Zahlen aus dem jährlichen Bericht `Energieverbrauch in der Industrie und im Dienstleistungssektor` des BFE. Die Wärmenachfrage wird als Wärmedichte im Hektarraster dargestellt. Die Wärmedichte ist anhand einer Farbskala ersichtlich. Die Angaben dienen als Informationsmaterial für die Öffentlichkeit und stellen keine amtliche Auskunft oder rechtsverbindliche Aussage dar.",
+      "service": "WMS",
+      "score": 75
+    }
+  ]
+  
